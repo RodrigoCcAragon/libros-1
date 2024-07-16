@@ -1,0 +1,16 @@
+C:\Users\PC-03\Documents\Lenin Z\proyecto1\proyecto1\proyecto1\mari\mari\obj\Debug\net6.0-windows\mari.Form1.resources
+C:\Users\PC-03\Documents\Lenin Z\proyecto1\proyecto1\proyecto1\mari\mari\obj\Debug\net6.0-windows\mari.csproj.GenerateResource.cache
+C:\Users\PC-03\Documents\Lenin Z\proyecto1\proyecto1\proyecto1\mari\mari\obj\Debug\net6.0-windows\mari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-03\Documents\Lenin Z\proyecto1\proyecto1\proyecto1\mari\mari\obj\Debug\net6.0-windows\mari.AssemblyInfoInputs.cache
+C:\Users\PC-03\Documents\Lenin Z\proyecto1\proyecto1\proyecto1\mari\mari\obj\Debug\net6.0-windows\mari.AssemblyInfo.cs
+C:\Users\PC-03\Documents\Lenin Z\proyecto1\proyecto1\proyecto1\mari\mari\obj\Debug\net6.0-windows\mari.csproj.CoreCompileInputs.cache
+C:\Users\PC-03\Documents\Lenin Z\proyecto1\proyecto1\proyecto1\mari\mari\bin\Debug\net6.0-windows\mari.exe
+C:\Users\PC-03\Documents\Lenin Z\proyecto1\proyecto1\proyecto1\mari\mari\bin\Debug\net6.0-windows\mari.deps.json
+C:\Users\PC-03\Documents\Lenin Z\proyecto1\proyecto1\proyecto1\mari\mari\bin\Debug\net6.0-windows\mari.runtimeconfig.json
+C:\Users\PC-03\Documents\Lenin Z\proyecto1\proyecto1\proyecto1\mari\mari\bin\Debug\net6.0-windows\mari.dll
+C:\Users\PC-03\Documents\Lenin Z\proyecto1\proyecto1\proyecto1\mari\mari\bin\Debug\net6.0-windows\mari.pdb
+C:\Users\PC-03\Documents\Lenin Z\proyecto1\proyecto1\proyecto1\mari\mari\obj\Debug\net6.0-windows\mari.dll
+C:\Users\PC-03\Documents\Lenin Z\proyecto1\proyecto1\proyecto1\mari\mari\obj\Debug\net6.0-windows\refint\mari.dll
+C:\Users\PC-03\Documents\Lenin Z\proyecto1\proyecto1\proyecto1\mari\mari\obj\Debug\net6.0-windows\mari.pdb
+C:\Users\PC-03\Documents\Lenin Z\proyecto1\proyecto1\proyecto1\mari\mari\obj\Debug\net6.0-windows\mari.genruntimeconfig.cache
+C:\Users\PC-03\Documents\Lenin Z\proyecto1\proyecto1\proyecto1\mari\mari\obj\Debug\net6.0-windows\ref\mari.dll

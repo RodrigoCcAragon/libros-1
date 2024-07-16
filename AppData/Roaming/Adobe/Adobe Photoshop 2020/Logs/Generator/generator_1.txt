@@ -1,0 +1,368 @@
+Log file created on Wed Jun 26 2024 09:38:02 GMT-0500 (Hora est. Pacífico, Sudamérica)
+
+[info:core 09:38:02.720 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Generator-builtin\lib\generator.js:114:22] Launching with config:
+{}
+[info:core 09:38:02.720 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Generator-builtin\lib\generator.js:116:26] provided PS information:
+ version 21.0
+ pathC:\Program Files\Adobe\Adobe Photoshop 2020
+
+[info:core 09:38:02.728 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Generator-builtin\lib\generator.js:237:30] Detected Photoshop version: 21.0.0
+[warning:app 09:38:02.748 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Generator-builtin\app.js:217:29] No viable plugins were found in 'C:\Program Files\Adobe\Adobe Photoshop 2020\Plug-ins\Generator'
+[info:core 09:38:02.749 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Generator-builtin\lib\generator.js:1926:26] Loading plugin: generator-assets (v2.9.13) from: C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate
+[warning:core 09:38:03.205 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Generator-builtin\lib\generator.js:915:26] WARNING the imageChanged event is expensive, please consider NOT listening to it
+[info:core 09:38:03.206 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Generator-builtin\lib\generator.js:1942:26] Plugin loaded: generator-assets
+[info:core 09:38:03.206 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Generator-builtin\lib\generator.js:1926:26] Loading plugin: crema (v3.2.12) from: C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\crema.generate
+[info:core 09:38:03.980 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Generator-builtin\lib\generator.js:1942:26] Plugin loaded: crema
+[warning:core 09:38:04.070 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Generator-builtin\lib\generator.js:915:26] WARNING the imageChanged event is expensive, please consider NOT listening to it
+[warning:crema 09:38:04.082 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\crema.generate\node_modules\shared\LogUtils\index.js:61:21] user settings file could not be created
+[warning:generator-assets 09:38:04.550 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\documentmanager.js:336:26] No Open Document
+[warning:crema 09:38:04.789 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\crema.generate\node_modules\generator-assets\lib\documentmanager.js:336:26] No Open Document
+[warning:core 09:38:05.104 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Generator-builtin\lib\generator.js:133:30] Photoshop error { id: 15,
+  body: 'Error 1302: No existe ese elemento\rLínea: 8\r->  var desc = app.getCustomOptions(params.key);' }
+[warning:core 09:38:05.108 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Generator-builtin\lib\generator.js:378:26] Error in JSX file with params ./jsx/getCustomOptions.jsx { key: 'crema' } Error 1302: No existe ese elementoLínea: 8->  var desc = app.getCustomOptions(params.key);
+[warning:generator-assets 10:05:40.359 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\layer.js:554:34] Unhandled property in raw change: transform { xx: 0.927652,
+  xy: 0,
+  yx: 0,
+  yy: 0.927652,
+  tx: 40.7045,
+  ty: -2.13163e-14 }
+[warning:generator-assets 10:09:51.037 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\layer.js:554:34] Unhandled property in raw change: transform { xx: 1.07799,
+  xy: 0,
+  yx: 0,
+  yy: 1.07799,
+  tx: -43.8791,
+  ty: 2.29788e-14 }
+[error:generator-assets 10:17:49.378 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\document.js:890:34] Error updating property bounds { top: 0, left: 0, bottom: 392, right: 384 } Error: Re-requesting docinfo due to document bounds change.
+    at Document._applyChange (C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\document.js:816:31)
+    at DocumentManager._processNextChange (C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\documentmanager.js:306:32)
+    at DocumentManager._handleImageChanged (C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\documentmanager.js:541:22)
+    at emitOne (events.js:121:20)
+    at Generator.emit (events.js:211:7)
+    at Generator.emitPhotoshopEvent (C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Generator-builtin\lib\generator.js:950:26)
+    at PhotoshopClient.<anonymous> (C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Generator-builtin\lib\generator.js:156:22)
+    at emitMany (events.js:147:13)
+    at PhotoshopClient.emit (events.js:224:7)
+    at PhotoshopClient._processMessage (C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Generator-builtin\lib\photoshop.js:564:22)
+[warning:generator-assets 10:17:49.379 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\documentmanager.js:308:26] Unable to apply change to document
+[error:generator-assets 10:39:30.693 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\document.js:890:34] Error updating property layers [ { id: 2,
+    bounds: { top: -65, left: -55, bottom: 335, right: 545 },
+    mask: { removed: true } } ] Error: Can't find changed layer:
+    at Document.<anonymous> (C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\document.js:613:31)
+    at Array.forEach (<anonymous>)
+    at Document._getChangedLayers (C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\document.js:592:25)
+    at Document._updateLayers (C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\document.js:755:28)
+    at Document._applyChange (C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\document.js:842:39)
+    at DocumentManager._processNextChange (C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\documentmanager.js:306:32)
+    at DocumentManager._handleImageChanged (C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\documentmanager.js:541:22)
+    at emitOne (events.js:121:20)
+    at Generator.emit (events.js:211:7)
+    at Generator.emitPhotoshopEvent (C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Generator-builtin\lib\generator.js:950:26)
+[warning:generator-assets 10:39:30.694 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\documentmanager.js:308:26] Unable to apply change to document
+[warning:generator-assets 10:58:31.562 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\layer.js:554:34] Unhandled property in raw change: transform { xx: 0.648378,
+  xy: 0,
+  yx: 0,
+  yy: 0.648378,
+  tx: 199.37,
+  ty: 165.614 }
+[warning:generator-assets 10:58:53.542 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\layer.js:554:34] Unhandled property in raw change: transform { xx: 1.54231,
+  xy: 0,
+  yx: 0,
+  yy: 1.54231,
+  tx: -307.49,
+  ty: -255.428 }
+[warning:generator-assets 12:02:26.995 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\layer.js:554:34] Unhandled property in raw change: transform { xx: 0, xy: 1, yx: -1, yy: 0, tx: 500, ty: -100 }
+[warning:generator-assets 12:02:29.558 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\layer.js:554:34] Unhandled property in raw change: transform { xx: 0, xy: -1, yx: 1, yy: 0, tx: 100, ty: 500 }
+[warning:generator-assets 12:02:40.780 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\layer.js:554:34] Unhandled property in raw change: transform { xx: -1, xy: 0, yx: 0, yy: 1, tx: 600, ty: 0 }
+[warning:generator-assets 12:03:12.802 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\layer.js:554:34] Unhandled property in raw change: transform { xx: 0.858333,
+  xy: 4.73695e-17,
+  yx: 0,
+  yy: 1,
+  tx: 85,
+  ty: -2.84217e-14 }
+[error:generator-assets 12:03:41.395 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\document.js:890:34] Error updating property bounds { top: 0, left: 0, bottom: 392, right: 600 } Error: Re-requesting docinfo due to document bounds change.
+    at Document._applyChange (C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\document.js:816:31)
+    at DocumentManager._processNextChange (C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\documentmanager.js:306:32)
+    at DocumentManager._handleImageChanged (C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\documentmanager.js:541:22)
+    at emitOne (events.js:121:20)
+    at Generator.emit (events.js:211:7)
+    at Generator.emitPhotoshopEvent (C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Generator-builtin\lib\generator.js:950:26)
+    at PhotoshopClient.<anonymous> (C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Generator-builtin\lib\generator.js:156:22)
+    at emitMany (events.js:147:13)
+    at PhotoshopClient.emit (events.js:224:7)
+    at PhotoshopClient._processMessage (C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Generator-builtin\lib\photoshop.js:564:22)
+[warning:generator-assets 12:03:41.396 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\documentmanager.js:308:26] Unable to apply change to document
+[warning:generator-assets 12:05:04.960 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\layer.js:554:34] Unhandled property in raw change: transform { xx: 0.766277, xy: -0.005, yx: 0, yy: 1, tx: 128.74, ty: -38.925 }
+[warning:generator-assets 12:05:22.238 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\layer.js:554:34] Unhandled property in raw change: transform { xx: 1.30501,
+  xy: 0.00652505,
+  yx: 0,
+  yy: 1,
+  tx: -168.007,
+  ty: 38.085 }
+[warning:generator-assets 12:05:31.112 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\layer.js:554:34] Unhandled property in raw change: transform { xx: 1.16505,
+  xy: -5.51878e-17,
+  yx: 0,
+  yy: 1,
+  tx: -99.0291,
+  ty: 3.31127e-14 }
+[warning:generator-assets 12:05:31.503 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\layer.js:554:34] Unhandled property in raw change: transform { xx: -1, xy: 0, yx: 0, yy: 1, tx: 600, ty: 0 }
+[error:generator-assets 12:05:36.199 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\document.js:890:34] Error updating property layers [ { id: 8,
+    bounds: { top: 0, left: 68, bottom: 400, right: 668 },
+    mask: { removed: true } } ] Error: Can't find changed layer:
+    at Document.<anonymous> (C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\document.js:613:31)
+    at Array.forEach (<anonymous>)
+    at Document._getChangedLayers (C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\document.js:592:25)
+    at Document._updateLayers (C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\document.js:755:28)
+    at Document._applyChange (C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\document.js:842:39)
+    at DocumentManager._processNextChange (C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\documentmanager.js:306:32)
+    at DocumentManager._handleImageChanged (C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\documentmanager.js:541:22)
+    at emitOne (events.js:121:20)
+    at Generator.emit (events.js:211:7)
+    at Generator.emitPhotoshopEvent (C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Generator-builtin\lib\generator.js:950:26)
+[warning:generator-assets 12:05:36.200 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\documentmanager.js:308:26] Unable to apply change to document
+[warning:generator-assets 12:06:27.240 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\layer.js:554:34] Unhandled property in raw change: transform { xx: -1, xy: 0, yx: 0, yy: 1, tx: 600, ty: 0 }
+[warning:generator-assets 12:06:54.786 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\layer.js:554:34] Unhandled property in raw change: transform { xx: 1.06818,
+  xy: 0,
+  yx: 0,
+  yy: 1.06818,
+  tx: 81.7202,
+  ty: -32.0455 }
+[warning:generator-assets 12:19:51.883 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\layer.js:554:34] Unhandled property in raw change: transform { xx: 0.846411,
+  xy: -0.00111297,
+  yx: 0,
+  yy: 1.00334,
+  tx: 84.4866,
+  ty: -0.609905 }
+[warning:generator-assets 12:20:13.096 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\layer.js:554:34] Unhandled property in raw change: transform { xx: 0.851547, xy: 0, yx: 0, yy: 1, tx: 61.2036, ty: 3.55271e-15 }
+[warning:generator-assets 12:30:39.908 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\layer.js:554:34] Unhandled property in raw change: transform { xx: 1.01378,
+  xy: 0.0016759,
+  yx: 0,
+  yy: 1,
+  tx: -8.97861,
+  ty: -1.092 }
+[warning:generator-assets 12:30:42.313 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\layer.js:554:34] Unhandled property in raw change: transform { xx: 0.986408,
+  xy: -0.00165312,
+  yx: 0,
+  yy: 1,
+  tx: 8.85657,
+  ty: 1.07716 }
+[error:generator-assets 12:32:37.322 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\document.js:890:34] Error updating property layers [ { id: 14 },
+  { id: 16,
+    changed: true,
+    fill: 
+     { dither: true,
+       reverse: false,
+       angle: [Object],
+       type: 'linear',
+       align: true,
+       scale: [Object],
+       offset: [Object],
+       gradient: [Object],
+       class: 'gradientLayer' },
+    path: { pathComponents: [Array], bounds: [Object], defaultFill: false },
+    rasterized: true,
+    timeContent: true } ] Error: Unknown change
+    at ShapeLayer.BaseLayer._applyChange (C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\layer.js:453:19)
+    at ShapeLayer._applyChange (C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\layer.js:834:56)
+    at LayerGroup.<anonymous> (C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\layer.js:1360:37)
+    at Array.forEach (<anonymous>)
+    at LayerGroup._applyChange (C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\layer.js:1340:29)
+    at Document._updateLayers (C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\document.js:764:22)
+    at Document._applyChange (C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\document.js:842:39)
+    at DocumentManager._processNextChange (C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\documentmanager.js:306:32)
+    at DocumentManager._handleImageChanged (C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\documentmanager.js:541:22)
+    at emitOne (events.js:121:20)
+[warning:generator-assets 12:32:37.323 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\documentmanager.js:308:26] Unable to apply change to document
+[error:generator-assets 12:33:22.232 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\document.js:890:34] Error updating property layers [ { id: 14 },
+  { id: 16,
+    changed: true,
+    fill: { color: [Object], class: 'solidColorLayer' },
+    path: { pathComponents: [Array], bounds: [Object], defaultFill: false },
+    rasterized: true,
+    timeContent: true } ] Error: Unknown change
+    at ShapeLayer.BaseLayer._applyChange (C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\layer.js:453:19)
+    at ShapeLayer._applyChange (C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\layer.js:834:56)
+    at LayerGroup.<anonymous> (C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\layer.js:1360:37)
+    at Array.forEach (<anonymous>)
+    at LayerGroup._applyChange (C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\layer.js:1340:29)
+    at Document._updateLayers (C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\document.js:764:22)
+    at Document._applyChange (C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\document.js:842:39)
+    at DocumentManager._processNextChange (C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\documentmanager.js:306:32)
+    at DocumentManager._handleImageChanged (C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\documentmanager.js:541:22)
+    at emitOne (events.js:121:20)
+[warning:generator-assets 12:33:22.232 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\documentmanager.js:308:26] Unable to apply change to document
+[error:generator-assets 12:33:53.005 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\document.js:890:34] Error updating property layers [ { id: 17 },
+  { id: 18,
+    changed: true,
+    strokeStyle: 
+     { strokeStyleVersion: 2,
+       strokeEnabled: true,
+       fillEnabled: false,
+       strokeStyleLineWidth: 10.96,
+       strokeStyleLineDashOffset: [Object],
+       strokeStyleMiterLimit: 100,
+       strokeStyleLineCapType: 'strokeStyleButtCap',
+       strokeStyleLineJoinType: 'strokeStyleMiterJoin',
+       strokeStyleLineAlignment: 'strokeStyleAlignInside',
+       strokeStyleScaleLock: false,
+       strokeStyleStrokeAdjust: false,
+       strokeStyleBlendMode: 'normal',
+       strokeStyleOpacity: [Object],
+       strokeStyleContent: [Object],
+       strokeStyleResolution: 150 },
+    path: { pathComponents: [Array], bounds: [Object], defaultFill: false },
+    rasterized: true,
+    timeContent: true } ] Error: Unknown change
+    at ShapeLayer.BaseLayer._applyChange (C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\layer.js:453:19)
+    at ShapeLayer._applyChange (C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\layer.js:834:56)
+    at LayerGroup.<anonymous> (C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\layer.js:1360:37)
+    at Array.forEach (<anonymous>)
+    at LayerGroup._applyChange (C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\layer.js:1340:29)
+    at Document._updateLayers (C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\document.js:764:22)
+    at Document._applyChange (C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\document.js:842:39)
+    at DocumentManager._processNextChange (C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\documentmanager.js:306:32)
+    at DocumentManager._handleImageChanged (C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\documentmanager.js:541:22)
+    at emitOne (events.js:121:20)
+[warning:generator-assets 12:33:53.005 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\documentmanager.js:308:26] Unable to apply change to document
+[error:generator-assets 12:33:56.930 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\document.js:890:34] Error updating property layers [ { id: 17 },
+  { id: 18,
+    changed: true,
+    strokeStyle: 
+     { strokeStyleVersion: 2,
+       strokeEnabled: true,
+       fillEnabled: false,
+       strokeStyleLineWidth: 1,
+       strokeStyleLineDashOffset: [Object],
+       strokeStyleMiterLimit: 100,
+       strokeStyleLineCapType: 'strokeStyleButtCap',
+       strokeStyleLineJoinType: 'strokeStyleMiterJoin',
+       strokeStyleLineAlignment: 'strokeStyleAlignInside',
+       strokeStyleScaleLock: false,
+       strokeStyleStrokeAdjust: false,
+       strokeStyleBlendMode: 'normal',
+       strokeStyleOpacity: [Object],
+       strokeStyleContent: [Object],
+       strokeStyleResolution: 150 },
+    path: { pathComponents: [Array], bounds: [Object], defaultFill: false },
+    rasterized: true,
+    timeContent: true } ] Error: Unknown change
+    at ShapeLayer.BaseLayer._applyChange (C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\layer.js:453:19)
+    at ShapeLayer._applyChange (C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\layer.js:834:56)
+    at LayerGroup.<anonymous> (C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\layer.js:1360:37)
+    at Array.forEach (<anonymous>)
+    at LayerGroup._applyChange (C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\layer.js:1340:29)
+    at Document._updateLayers (C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\document.js:764:22)
+    at Document._applyChange (C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\document.js:842:39)
+    at DocumentManager._processNextChange (C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\documentmanager.js:306:32)
+    at DocumentManager._handleImageChanged (C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\documentmanager.js:541:22)
+    at emitOne (events.js:121:20)
+[warning:generator-assets 12:33:56.931 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\documentmanager.js:308:26] Unable to apply change to document
+[error:generator-assets 12:34:47.796 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\document.js:890:34] Error updating property layers [ { id: 12 },
+  { id: 19,
+    changed: true,
+    strokeStyle: 
+     { strokeStyleVersion: 2,
+       strokeEnabled: false,
+       fillEnabled: false,
+       strokeStyleLineWidth: 1,
+       strokeStyleLineDashOffset: [Object],
+       strokeStyleMiterLimit: 100,
+       strokeStyleLineCapType: 'strokeStyleButtCap',
+       strokeStyleLineJoinType: 'strokeStyleMiterJoin',
+       strokeStyleLineAlignment: 'strokeStyleAlignInside',
+       strokeStyleScaleLock: false,
+       strokeStyleStrokeAdjust: false,
+       strokeStyleBlendMode: 'normal',
+       strokeStyleOpacity: [Object],
+       strokeStyleContent: [Object],
+       strokeStyleResolution: 150 },
+    path: { pathComponents: [Array], bounds: [Object], defaultFill: false },
+    rasterized: true,
+    timeContent: true } ] Error: Unknown change
+    at ShapeLayer.BaseLayer._applyChange (C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\layer.js:453:19)
+    at ShapeLayer._applyChange (C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\layer.js:834:56)
+    at LayerGroup.<anonymous> (C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\layer.js:1360:37)
+    at Array.forEach (<anonymous>)
+    at LayerGroup._applyChange (C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\layer.js:1340:29)
+    at Document._updateLayers (C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\document.js:764:22)
+    at Document._applyChange (C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\document.js:842:39)
+    at DocumentManager._processNextChange (C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\documentmanager.js:306:32)
+    at DocumentManager._handleImageChanged (C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\documentmanager.js:541:22)
+    at emitOne (events.js:121:20)
+[warning:generator-assets 12:34:47.797 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\documentmanager.js:308:26] Unable to apply change to document
+[error:generator-assets 12:34:49.473 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\document.js:890:34] Error updating property layers [ { id: 12 },
+  { id: 19,
+    changed: true,
+    fill: { color: [Object], class: 'solidColorLayer' },
+    strokeStyle: 
+     { strokeStyleVersion: 2,
+       strokeEnabled: true,
+       fillEnabled: false,
+       strokeStyleLineWidth: 1,
+       strokeStyleLineDashOffset: [Object],
+       strokeStyleMiterLimit: 100,
+       strokeStyleLineCapType: 'strokeStyleButtCap',
+       strokeStyleLineJoinType: 'strokeStyleMiterJoin',
+       strokeStyleLineAlignment: 'strokeStyleAlignInside',
+       strokeStyleScaleLock: false,
+       strokeStyleStrokeAdjust: false,
+       strokeStyleBlendMode: 'normal',
+       strokeStyleOpacity: [Object],
+       strokeStyleContent: [Object],
+       strokeStyleResolution: 150 },
+    path: { pathComponents: [Array], bounds: [Object], defaultFill: false },
+    rasterized: true,
+    timeContent: true } ] Error: Unknown change
+    at ShapeLayer.BaseLayer._applyChange (C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\layer.js:453:19)
+    at ShapeLayer._applyChange (C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\layer.js:834:56)
+    at LayerGroup.<anonymous> (C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\layer.js:1360:37)
+    at Array.forEach (<anonymous>)
+    at LayerGroup._applyChange (C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\layer.js:1340:29)
+    at Document._updateLayers (C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\document.js:764:22)
+    at Document._applyChange (C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\document.js:842:39)
+    at DocumentManager._processNextChange (C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\documentmanager.js:306:32)
+    at DocumentManager._handleImageChanged (C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\documentmanager.js:541:22)
+    at emitOne (events.js:121:20)
+[warning:generator-assets 12:34:49.473 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\documentmanager.js:308:26] Unable to apply change to document
+[error:generator-assets 12:34:58.848 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\document.js:890:34] Error updating property layers [ { id: 12 },
+  { id: 19,
+    changed: true,
+    strokeStyle: 
+     { strokeStyleVersion: 2,
+       strokeEnabled: true,
+       fillEnabled: false,
+       strokeStyleLineWidth: 2,
+       strokeStyleLineDashOffset: [Object],
+       strokeStyleMiterLimit: 100,
+       strokeStyleLineCapType: 'strokeStyleButtCap',
+       strokeStyleLineJoinType: 'strokeStyleMiterJoin',
+       strokeStyleLineAlignment: 'strokeStyleAlignInside',
+       strokeStyleScaleLock: false,
+       strokeStyleStrokeAdjust: false,
+       strokeStyleBlendMode: 'normal',
+       strokeStyleOpacity: [Object],
+       strokeStyleContent: [Object],
+       strokeStyleResolution: 150 },
+    path: { pathComponents: [Array], bounds: [Object], defaultFill: false },
+    rasterized: true,
+    timeContent: true } ] Error: Unknown change
+    at ShapeLayer.BaseLayer._applyChange (C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\layer.js:453:19)
+    at ShapeLayer._applyChange (C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\layer.js:834:56)
+    at LayerGroup.<anonymous> (C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\layer.js:1360:37)
+    at Array.forEach (<anonymous>)
+    at LayerGroup._applyChange (C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\layer.js:1340:29)
+    at Document._updateLayers (C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\document.js:764:22)
+    at Document._applyChange (C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\document.js:842:39)
+    at DocumentManager._processNextChange (C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\documentmanager.js:306:32)
+    at DocumentManager._handleImageChanged (C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\documentmanager.js:541:22)
+    at emitOne (events.js:121:20)
+[warning:generator-assets 12:34:58.849 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\documentmanager.js:308:26] Unable to apply change to document
+[warning:generator-assets 12:36:53.801 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\layer.js:554:34] Unhandled property in raw change: transform { xx: 0.695492,
+  xy: 0,
+  yx: 0.0204422,
+  yy: 0.836735,
+  tx: 177.787,
+  ty: 5.22449 }
+[warning:core 12:52:10.671 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Generator-builtin\lib\generator.js:133:30] Photoshop error Pipe read error: Error: EPIPE: broken pipe, read
+[info:core 12:52:10.671 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Generator-builtin\lib\generator.js:128:30] Photoshop connection closed
+[info:core 12:52:10.671 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Generator-builtin\lib\generator.js:128:30] Photoshop connection closed
+[error:app 12:52:11.693 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Generator-builtin\app.js:125:17] Exiting with code 0: Generator close event

@@ -1,0 +1,39 @@
+double suma = 0;
+
+for (int i=1;i<= 10;i++)
+{
+    Console.WriteLine("ingrese el numero:" + i);
+    int num = int.Parse(Console.ReadLine());
+    suma = suma + num;
+
+}
+
+Console.WriteLine("la suma es " + suma);
+
+
+int numero,sum= 0;
+do
+{
+    Console.WriteLine("ingrese un numero");
+    numero = int.Parse(Console.ReadLine());
+    suma += numero;//suma=suma+numero;
+
+} while (numero != 0);
+
+Console.WriteLine("la suma es:" + suma);
+
+
+bool cero = true;
+int sumaa= 0;
+
+while (cero)
+{
+    Console.WriteLine("ingrese un numero");
+    int num = int.Parse(Console.ReadLine());
+    suma += numero;//suma=suma+numero;
+    if (numero ==0)
+    {
+        cero = false;
+    }
+}
+Console.WriteLine("la suma es:" + suma);

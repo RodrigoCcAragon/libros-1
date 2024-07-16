@@ -1,0 +1,14 @@
+C:\Users\PC-03\Documents\Lenin Z\proyecto1\proyecto1\proyecto1\VALENTINO TRABAJO\VALENTINO TRABAJO\bin\Debug\net6.0\VALENTINO TRABAJO.exe
+C:\Users\PC-03\Documents\Lenin Z\proyecto1\proyecto1\proyecto1\VALENTINO TRABAJO\VALENTINO TRABAJO\bin\Debug\net6.0\VALENTINO TRABAJO.deps.json
+C:\Users\PC-03\Documents\Lenin Z\proyecto1\proyecto1\proyecto1\VALENTINO TRABAJO\VALENTINO TRABAJO\bin\Debug\net6.0\VALENTINO TRABAJO.runtimeconfig.json
+C:\Users\PC-03\Documents\Lenin Z\proyecto1\proyecto1\proyecto1\VALENTINO TRABAJO\VALENTINO TRABAJO\bin\Debug\net6.0\VALENTINO TRABAJO.dll
+C:\Users\PC-03\Documents\Lenin Z\proyecto1\proyecto1\proyecto1\VALENTINO TRABAJO\VALENTINO TRABAJO\bin\Debug\net6.0\VALENTINO TRABAJO.pdb
+C:\Users\PC-03\Documents\Lenin Z\proyecto1\proyecto1\proyecto1\VALENTINO TRABAJO\VALENTINO TRABAJO\obj\Debug\net6.0\VALENTINO TRABAJO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-03\Documents\Lenin Z\proyecto1\proyecto1\proyecto1\VALENTINO TRABAJO\VALENTINO TRABAJO\obj\Debug\net6.0\VALENTINO TRABAJO.AssemblyInfoInputs.cache
+C:\Users\PC-03\Documents\Lenin Z\proyecto1\proyecto1\proyecto1\VALENTINO TRABAJO\VALENTINO TRABAJO\obj\Debug\net6.0\VALENTINO TRABAJO.AssemblyInfo.cs
+C:\Users\PC-03\Documents\Lenin Z\proyecto1\proyecto1\proyecto1\VALENTINO TRABAJO\VALENTINO TRABAJO\obj\Debug\net6.0\VALENTINO TRABAJO.csproj.CoreCompileInputs.cache
+C:\Users\PC-03\Documents\Lenin Z\proyecto1\proyecto1\proyecto1\VALENTINO TRABAJO\VALENTINO TRABAJO\obj\Debug\net6.0\VALENTINO TRABAJO.dll
+C:\Users\PC-03\Documents\Lenin Z\proyecto1\proyecto1\proyecto1\VALENTINO TRABAJO\VALENTINO TRABAJO\obj\Debug\net6.0\refint\VALENTINO TRABAJO.dll
+C:\Users\PC-03\Documents\Lenin Z\proyecto1\proyecto1\proyecto1\VALENTINO TRABAJO\VALENTINO TRABAJO\obj\Debug\net6.0\VALENTINO TRABAJO.pdb
+C:\Users\PC-03\Documents\Lenin Z\proyecto1\proyecto1\proyecto1\VALENTINO TRABAJO\VALENTINO TRABAJO\obj\Debug\net6.0\VALENTINO TRABAJO.genruntimeconfig.cache
+C:\Users\PC-03\Documents\Lenin Z\proyecto1\proyecto1\proyecto1\VALENTINO TRABAJO\VALENTINO TRABAJO\obj\Debug\net6.0\ref\VALENTINO TRABAJO.dll

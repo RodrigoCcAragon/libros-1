@@ -1,0 +1,616 @@
+[07/03/24 08:54:29][792][Default] [console] i am called
+[07/03/24 08:54:30][792][Default] [console] Artboard Move Copytrue
+[07/03/24 08:54:30][792][Default] [console] Artboard Move testfalse
+[07/03/24 08:54:30][272][Warn] [general] Fail to open a registry key for domain & subkey: uxp_com.adobe.ccx.start Software\Adobe\Illustrator\140.0\uxp_com.adobe.ccx.start
+[07/03/24 08:54:30][272][Warn] [general] Fail to open a registry key for domain & subkey: uxp_com.adobe.ccx.start Software\Adobe\Illustrator\140.0\uxp_com.adobe.ccx.start
+[07/03/24 08:54:30][272][Warn] [general] Fail to open a registry key for domain & subkey: uxp_com.adobe.ccx.start Software\Adobe\Illustrator\140.0\uxp_com.adobe.ccx.start
+[07/03/24 08:54:30][272][Warn] [general] Fail to open a registry key for domain & subkey: uxp_com.adobe.ccx.start Software\Adobe\Illustrator\140.0\uxp_com.adobe.ccx.start
+[07/03/24 08:54:30][272][Default] [console] 350 PERF - Start Screen Init start
+[07/03/24 08:54:30][272][Default] [console] CCX Start v3.2.1.10
+[07/03/24 08:54:30][272][Default] [console] 351 PERF - Sophia Init start
+[07/03/24 08:54:30][272][Default] [console] 355 PERF - Ututs Init start
+[07/03/24 08:54:30][272][Default] [console] 356 PERF - IMS Init start
+[07/03/24 08:54:30][272][Default] [console] 357 PERF - Locale Init start
+[07/03/24 08:54:30][272][Default] [console] 371 PERF - MainStore Init start
+[07/03/24 08:54:30][272][Warn] [general] Fail to open a registry key for domain & subkey: uxp_com.adobe.ccx.start Software\Adobe\Illustrator\140.0\uxp_com.adobe.ccx.start
+[07/03/24 08:54:30][272][Default] [console] self.launchCount 1
+[07/03/24 08:54:30][272][Default] [console] 378 PERF - Platform init start
+[07/03/24 08:54:30][272][Default] [console] 378 PERF - Shared Settings Init start
+[07/03/24 08:54:31][272][Default] [console] log perf event: time: 674 message: MainStore Init
+[07/03/24 08:54:31][272][Default] [console] 1045 PERF - MainStore Init done: 674
+[07/03/24 08:54:32][272][Warn] [console] [CDO] @ccx/ccx-cdo/Stylesheets.ts | @ccx/ccx-cdo/theme/Core.css |
+        @ccx/ccx-cdo/theme/CCXHomeScreen/Themes.css will soon be deprecated. 
+        Please read: https://git.corp.adobe.com/CCX/ccx-cdo#theming to update your CDO themes.
+[07/03/24 08:54:32][272][Default] [console] log perf event: time: 1796 message: UI Ready
+[07/03/24 08:54:32][272][Default] [console] 1796 PERF - UI Ready
+[07/03/24 08:54:32][272][Default] [console] 1801 PERF - Launch CCXProcess start
+[07/03/24 08:54:32][272][Default] [console] log perf event: time: 1435 message: Platform init
+[07/03/24 08:54:32][272][Default] [console] 1813 PERF - Platform init done: 1435
+[07/03/24 08:54:32][272][Default] [console] log perf event: time: 12 message: Launch CCXProcess
+[07/03/24 08:54:32][272][Default] [console] 1813 PERF - Launch CCXProcess done: 12
+[07/03/24 08:54:32][272][Default] [console] Received NGL profile {
+  "AppProfile": {},
+  "LegacyProfile": {},
+  "AdditionalLegacyProfiles": {},
+  "RelationshipProfile": {},
+  "UserProfile": {}
+}
+[07/03/24 08:54:32][272][Default] [console] User Profile changed
+[07/03/24 08:54:32][272][Default] [console] Received NGL profile {
+  "AppProfile": {},
+  "LegacyProfile": {},
+  "AdditionalLegacyProfiles": {},
+  "RelationshipProfile": {},
+  "UserProfile": {}
+}
+[07/03/24 08:54:32][272][Default] [console] log perf event: time: 1479 message: Locale Init
+[07/03/24 08:54:32][272][Default] [console] 1836 PERF - Locale Init done: 1479
+[07/03/24 08:54:34][272][Default] [console] log perf event: time: 4012 message: Sophia Init
+[07/03/24 08:54:34][272][Default] [console] 4363 PERF - Sophia Init done: 4012
+[07/03/24 08:54:34][272][Default] [console] Empty response from CCX Process
+[07/03/24 08:54:34][272][Default] [console] log perf event: time: 4009 message: Ututs Init
+[07/03/24 08:54:34][272][Default] [console] 4364 PERF - Ututs Init done: 4009
+[07/03/24 09:14:10][792][Default] [console] watch for opacity called100
+[07/03/24 09:18:23][792][Default] [console] watch for opacity called100
+[07/03/24 09:19:39][792][Default] [console] watch for opacity called100
+[07/03/24 09:21:02][792][Default] [console] watch for opacity called100
+[07/03/24 09:21:18][792][Default] [console] watch for opacity called100
+[07/03/24 09:22:48][792][Default] [console] watch for opacity called100
+[07/03/24 09:22:53][792][Default] [console] watch for opacity called100
+[07/03/24 09:24:11][792][Default] [console] watch for opacity called100
+[07/03/24 09:24:18][792][Default] [console] watch for opacity called100
+[07/03/24 09:30:30][792][Default] [console] watch for opacity called100
+[07/03/24 09:30:48][792][Default] [console] watch for opacity called100
+[07/03/24 09:32:16][792][Default] [console] watch for opacity called100
+[07/03/24 09:32:51][792][Default] [console] watch for opacity called100
+[07/03/24 09:34:41][792][Default] [console] watch for opacity called100
+[07/03/24 09:34:48][792][Default] [console] watch for opacity called100
+[07/03/24 09:35:04][792][Default] [console] watch for opacity called100
+[07/03/24 09:35:37][792][Default] [console] watch for opacity called100
+[07/03/24 09:36:54][792][Default] [console] watch for opacity called100
+[07/03/24 09:37:07][792][Default] [console] watch for opacity called100
+[07/03/24 09:39:02][792][Default] [console] watch for opacity called100
+[07/03/24 09:39:10][792][Default] [console] watch for opacity called100
+[07/03/24 09:39:57][792][Default] [console] watch for opacity called100
+[07/03/24 09:40:07][792][Default] [console] watch for opacity called100
+[07/03/24 09:40:19][792][Default] [console] watch for opacity called100
+[07/03/24 09:40:29][792][Default] [console] watch for opacity called100
+[07/03/24 09:41:17][792][Default] [console] watch for opacity called100
+[07/03/24 09:44:09][792][Default] [console] watch for opacity called100
+[07/03/24 09:45:09][792][Default] [console] watch for opacity called100
+[07/03/24 09:46:15][792][Default] [console] watch for opacity called100
+[07/03/24 09:46:30][792][Default] [console] watch for opacity called100
+[07/03/24 09:47:40][792][Default] [console] watch for opacity called100
+[07/03/24 09:48:47][792][Default] [console] watch for opacity called100
+[07/03/24 09:49:37][792][Default] [console] watch for opacity called100
+[07/03/24 09:49:59][792][Default] [console] watch for opacity called100
+[07/03/24 09:51:08][792][Default] [console] watch for opacity called100
+[07/03/24 09:51:19][792][Default] [console] watch for opacity called100
+[07/03/24 09:51:42][792][Default] [console] watch for opacity called100
+[07/03/24 09:52:04][792][Default] [console] watch for opacity called100
+[07/03/24 09:52:24][792][Default] [console] watch for opacity called100
+[07/03/24 09:55:42][792][Default] [console] watch for opacity called100
+[07/03/24 09:56:20][792][Default] [console] watch for opacity called100
+[07/03/24 09:56:41][792][Default] [console] watch for opacity called100
+[07/03/24 09:56:52][792][Default] [console] watch for opacity called100
+[07/03/24 09:57:21][792][Default] [console] watch for opacity called100
+[07/03/24 09:57:35][792][Default] [console] watch for opacity called100
+[07/03/24 10:01:03][792][Default] [console] watch for opacity called100
+[07/03/24 10:01:05][792][Default] [console] watch for opacity called100
+[07/03/24 10:02:52][792][Default] [console] watch for opacity called100
+[07/03/24 10:03:22][792][Default] [console] watch for opacity called100
+[07/03/24 10:03:40][792][Default] [console] watch for opacity called100
+[07/03/24 10:03:43][792][Default] [console] watch for opacity called100
+[07/03/24 10:04:22][792][Default] [console] watch for opacity called100
+[07/03/24 10:04:28][792][Default] [console] watch for opacity called100
+[07/03/24 10:04:36][792][Default] [console] watch for opacity called100
+[07/03/24 10:05:10][792][Default] [console] watch for opacity called100
+[07/03/24 10:05:35][792][Default] [console] watch for opacity called100
+[07/03/24 10:06:23][792][Default] [console] watch for opacity called100
+[07/03/24 10:07:33][792][Default] [console] watch for opacity called100
+[07/03/24 10:07:36][792][Default] [console] watch for opacity called100
+[07/03/24 10:07:40][792][Default] [console] watch for opacity called100
+[07/03/24 10:08:07][792][Default] [console] watch for opacity called100
+[07/03/24 10:08:13][792][Default] [console] watch for opacity called100
+[07/03/24 10:08:22][792][Default] [console] watch for opacity called100
+[07/03/24 10:12:35][792][Default] [console] watch for opacity calledNaN
+[07/03/24 10:12:43][792][Default] [console] watch for opacity called100
+[07/03/24 10:12:51][792][Default] [console] watch for opacity calledNaN
+[07/03/24 10:12:52][792][Default] [console] watch for opacity called100
+[07/03/24 10:41:10][792][Default] [console] watch for opacity called100
+[07/03/24 10:46:22][792][Default] [console] watch for opacity called100
+[07/03/24 10:48:58][792][Default] [console] watch for opacity called100
+[07/03/24 10:50:19][792][Default] [console] watch for opacity called100
+[07/03/24 10:50:56][792][Default] [console] watch for opacity called100
+[07/03/24 10:51:41][792][Default] [console] watch for opacity called100
+[07/03/24 10:52:04][792][Default] [console] watch for opacity called100
+[07/03/24 10:53:41][792][Default] [console] watch for opacity called100
+[07/03/24 10:55:11][792][Default] [console] watch for opacity called100
+[07/03/24 10:55:23][792][Default] [console] watch for opacity called100
+[07/03/24 10:55:59][792][Default] [console] watch for opacity called100
+[07/03/24 10:56:07][792][Default] [console] watch for opacity called100
+[07/03/24 10:56:08][792][Default] [console] watch for opacity called100
+[07/03/24 10:56:14][792][Default] [console] watch for opacity called100
+[07/03/24 10:58:55][792][Default] [console] watch for opacity called100
+[07/03/24 10:58:59][792][Default] [console] watch for opacity called100
+[07/03/24 11:00:05][792][Default] [console] watch for opacity called100
+[07/03/24 11:00:20][792][Default] [console] watch for opacity called100
+[07/03/24 11:01:07][792][Default] [console] watch for opacity called100
+[07/03/24 11:12:24][792][Default] [console] watch for opacity called100
+[07/03/24 11:12:49][792][Default] [console] watch for opacity called100
+[07/03/24 11:13:16][792][Default] [console] watch for opacity called100
+[07/03/24 11:13:29][792][Default] [console] watch for opacity called100
+[07/03/24 11:13:38][792][Default] [console] watch for opacity called100
+[07/03/24 11:13:45][792][Default] [console] watch for opacity called100
+[07/03/24 11:13:53][792][Default] [console] watch for opacity called100
+[07/03/24 11:14:34][792][Default] [console] watch for opacity called100
+[07/03/24 11:15:14][792][Default] [console] watch for opacity called100
+[07/03/24 11:15:42][792][Default] [console] watch for opacity called100
+[07/03/24 11:15:58][792][Default] [console] watch for opacity called100
+[07/03/24 11:16:14][792][Default] [console] watch for opacity called100
+[07/03/24 11:16:35][792][Default] [console] watch for opacity called100
+[07/03/24 11:21:11][792][Default] [console] watch for opacity called100
+[07/03/24 11:21:17][792][Default] [console] watch for opacity called100
+[07/03/24 11:21:38][792][Default] [console] watch for opacity called100
+[07/03/24 11:21:47][792][Default] [console] watch for opacity called100
+[07/03/24 11:22:00][792][Default] [console] watch for opacity called100
+[07/03/24 11:22:15][792][Default] [console] watch for opacity called100
+[07/03/24 11:22:21][792][Default] [console] watch for opacity called100
+[07/03/24 11:22:33][792][Default] [console] watch for opacity called100
+[07/03/24 11:22:36][792][Default] [console] watch for opacity called100
+[07/03/24 11:22:44][792][Default] [console] watch for opacity called100
+[07/03/24 11:23:21][792][Default] [console] watch for opacity called100
+[07/03/24 11:23:42][792][Default] [console] watch for opacity called100
+[07/03/24 11:24:10][792][Default] [console] watch for opacity called100
+[07/03/24 11:25:09][792][Default] [console] watch for opacity called100
+[07/03/24 11:25:15][792][Default] [console] watch for opacity called100
+[07/03/24 11:25:29][792][Default] [console] watch for opacity called100
+[07/03/24 11:25:35][792][Default] [console] watch for opacity called100
+[07/03/24 11:25:42][792][Default] [console] watch for opacity called100
+[07/03/24 11:25:50][792][Default] [console] watch for opacity called100
+[07/03/24 11:25:58][792][Default] [console] watch for opacity called100
+[07/03/24 11:26:05][792][Default] [console] watch for opacity called100
+[07/03/24 11:27:09][792][Default] [console] watch for opacity called100
+[07/03/24 11:27:12][792][Default] [console] watch for opacity called100
+[07/03/24 11:27:32][792][Default] [console] watch for opacity called100
+[07/03/24 11:27:39][792][Default] [console] watch for opacity called100
+[07/03/24 11:28:18][792][Default] [console] watch for opacity called100
+[07/03/24 11:28:23][792][Default] [console] watch for opacity called100
+[07/03/24 11:28:27][792][Default] [console] watch for opacity called100
+[07/03/24 11:30:44][792][Default] [console] watch for opacity called100
+[07/03/24 11:31:13][792][Default] [console] watch for opacity called100
+[07/03/24 11:31:25][792][Default] [console] watch for opacity called100
+[07/03/24 11:31:36][792][Default] [console] watch for opacity called100
+[07/03/24 11:32:04][792][Default] [console] watch for opacity called100
+[07/03/24 11:32:10][792][Default] [console] watch for opacity called100
+[07/03/24 11:33:07][792][Default] [console] watch for opacity called100
+[07/03/24 11:33:26][792][Default] [console] watch for opacity called100
+[07/03/24 11:34:50][792][Default] [console] watch for opacity called100
+[07/03/24 11:35:08][792][Default] [console] watch for opacity called100
+[07/03/24 11:35:16][792][Default] [console] watch for opacity called100
+[07/03/24 11:35:28][792][Default] [console] watch for opacity called100
+[07/03/24 11:35:39][792][Default] [console] watch for opacity called100
+[07/03/24 11:35:46][792][Default] [console] watch for opacity called100
+[07/03/24 11:36:03][792][Default] [console] watch for opacity called100
+[07/03/24 11:36:09][792][Default] [console] watch for opacity called100
+[07/03/24 11:36:20][792][Default] [console] watch for opacity called100
+[07/03/24 11:36:27][792][Default] [console] watch for opacity called100
+[07/03/24 11:36:35][792][Default] [console] watch for opacity called100
+[07/03/24 11:37:13][792][Default] [console] watch for opacity called100
+[07/03/24 11:37:40][792][Default] [console] watch for opacity called100
+[07/03/24 11:37:47][792][Default] [console] watch for opacity called100
+[07/03/24 11:37:49][792][Default] [console] watch for opacity called100
+[07/03/24 11:37:53][792][Default] [console] watch for opacity called100
+[07/03/24 11:38:07][792][Default] [console] watch for opacity called100
+[07/03/24 11:38:25][792][Default] [console] watch for opacity called100
+[07/03/24 11:38:38][792][Default] [console] watch for opacity called100
+[07/03/24 11:39:16][792][Default] [console] watch for opacity called100
+[07/03/24 11:40:34][792][Default] [console] watch for opacity called100
+[07/03/24 11:40:50][792][Default] [console] watch for opacity called100
+[07/03/24 11:40:54][792][Default] [console] watch for opacity called100
+[07/03/24 11:40:59][792][Default] [console] watch for opacity called100
+[07/03/24 11:40:59][792][Default] [console] watch for opacity called100
+[07/03/24 11:41:05][792][Default] [console] watch for opacity called100
+[07/03/24 11:41:10][792][Default] [console] watch for opacity called100
+[07/03/24 11:41:19][792][Default] [console] watch for opacity called100
+[07/03/24 11:41:26][792][Default] [console] watch for opacity called100
+[07/03/24 11:41:30][792][Default] [console] watch for opacity called100
+[07/03/24 11:41:32][792][Default] [console] watch for opacity called100
+[07/03/24 11:41:37][792][Default] [console] watch for opacity called100
+[07/03/24 11:42:22][792][Default] [console] watch for opacity called100
+[07/03/24 11:42:37][792][Default] [console] watch for opacity called100
+[07/03/24 11:42:42][792][Default] [console] watch for opacity called100
+[07/03/24 11:42:47][792][Default] [console] watch for opacity called100
+[07/03/24 11:42:50][792][Default] [console] watch for opacity called100
+[07/03/24 11:42:54][792][Default] [console] watch for opacity called100
+[07/03/24 11:43:24][792][Default] [console] watch for opacity called100
+[07/03/24 11:43:27][792][Default] [console] watch for opacity called100
+[07/03/24 11:43:36][792][Default] [console] watch for opacity called100
+[07/03/24 11:44:12][792][Default] [console] watch for opacity called100
+[07/03/24 11:44:47][792][Default] [console] watch for opacity called100
+[07/03/24 11:45:01][792][Default] [console] watch for opacity called100
+[07/03/24 11:45:19][792][Default] [console] watch for opacity called100
+[07/03/24 11:45:29][792][Default] [console] watch for opacity called100
+[07/03/24 11:45:34][792][Default] [console] watch for opacity called100
+[07/03/24 11:45:39][792][Default] [console] watch for opacity called100
+[07/03/24 11:46:28][792][Default] [console] watch for opacity called100
+[07/03/24 11:46:36][792][Default] [console] watch for opacity called100
+[07/03/24 11:47:16][792][Default] [console] watch for opacity called100
+[07/03/24 11:49:14][792][Default] [console] watch for opacity called100
+[07/03/24 11:50:25][792][Default] [console] watch for opacity called100
+[07/03/24 11:50:43][792][Default] [console] watch for opacity called100
+[07/03/24 11:51:42][792][Default] [console] watch for opacity called100
+[07/03/24 11:53:03][792][Default] [console] watch for opacity called100
+[07/03/24 11:53:10][792][Default] [console] watch for opacity called100
+[07/03/24 11:53:15][792][Default] [console] watch for opacity called100
+[07/03/24 11:53:23][792][Default] [console] watch for opacity called100
+[07/03/24 11:54:11][792][Default] [console] watch for opacity called100
+[07/03/24 11:54:13][792][Debug] [general] 
+         array = [event.detail.globalRect.left, event.detail.globalRect.top, event.detail.globalRect.width, event.detail.globalRect.height];
+                                          ^
+
+[07/03/24 11:54:13][792][Error] [general] Uncaught JS Exception: 
+webpack:///./src/js/app/Utilities.jsx?:83:41
+TypeError: Cannot read property 'left' of undefined
+    at Function.HandlePopupEvent (webpack:///./src/js/app/Utilities.jsx?:83:42)
+    at PatternSwatch.eval (webpack:///./src/js/app/AppearanceView.jsx?:3020:63)
+    at I.p.done.o.runWithNativeHandler (uxp://uxp-internal/domjs_scripts.js:2:7848)
+    at I (uxp://uxp-internal/domjs_scripts.js:2:7740)
+    at uxp://uxp-internal/domjs_scripts.js:2:7232
+    at O (uxp://uxp-internal/domjs_scripts.js:2:7239)
+    at k (uxp://uxp-internal/domjs_scripts.js:2:8017)
+    at e (uxp://uxp-internal/domjs_scripts.js:2:8497)
+    at e.exports.onEvent (uxp://uxp-internal/domjs_scripts.js:2:163078)
+
+
+[07/03/24 11:54:19][792][Default] [console] watch for opacity called100
+[07/03/24 11:54:34][792][Default] [console] watch for opacity called100
+[07/03/24 11:54:41][792][Default] [console] watch for opacity called100
+[07/03/24 11:54:49][792][Default] [console] watch for opacity called100
+[07/03/24 11:54:53][792][Default] [console] watch for opacity called100
+[07/03/24 11:55:07][792][Default] [console] watch for opacity called100
+[07/03/24 11:55:25][792][Default] [console] watch for opacity called100
+[07/03/24 11:55:30][792][Default] [console] watch for opacity called100
+[07/03/24 11:55:36][792][Default] [console] watch for opacity called100
+[07/03/24 11:56:36][792][Default] [console] watch for opacity called100
+[07/03/24 11:59:41][792][Default] [console] watch for opacity called100
+[07/03/24 11:59:55][792][Default] [console] watch for opacity called100
+[07/03/24 11:59:57][792][Default] [console] watch for opacity called100
+[07/03/24 12:00:01][792][Default] [console] watch for opacity called100
+[07/03/24 12:00:05][792][Default] [console] watch for opacity called100
+[07/03/24 12:00:44][792][Default] [console] watch for opacity called100
+[07/03/24 12:01:34][792][Default] [console] watch for opacity called100
+[07/03/24 12:01:43][792][Default] [console] watch for opacity called100
+[07/03/24 12:01:48][792][Default] [console] watch for opacity called100
+[07/03/24 12:01:57][792][Default] [console] watch for opacity called100
+[07/03/24 12:02:44][792][Default] [console] watch for opacity called100
+[07/03/24 12:02:51][792][Default] [console] watch for opacity called100
+[07/03/24 12:03:01][792][Default] [console] watch for opacity called100
+[07/03/24 12:03:07][792][Default] [console] watch for opacity called100
+[07/03/24 12:03:09][792][Default] [console] watch for opacity called100
+[07/03/24 12:03:16][792][Default] [console] watch for opacity called100
+[07/03/24 12:03:25][792][Default] [console] watch for opacity called100
+[07/03/24 12:04:27][792][Default] [console] watch for opacity called100
+[07/03/24 12:04:51][792][Default] [console] watch for opacity called100
+[07/03/24 12:07:08][792][Default] [console] watch for opacity called100
+[07/03/24 12:07:18][792][Default] [console] watch for opacity called100
+[07/03/24 12:07:22][792][Default] [console] watch for opacity called100
+[07/03/24 12:07:30][792][Default] [console] watch for opacity called100
+[07/03/24 12:07:44][792][Default] [console] watch for opacity called100
+[07/03/24 12:08:09][792][Default] [console] watch for opacity called100
+[07/03/24 12:08:19][792][Default] [console] watch for opacity called100
+[07/03/24 12:08:27][792][Default] [console] watch for opacity called100
+[07/03/24 12:08:53][792][Default] [console] watch for opacity called100
+[07/03/24 12:09:02][792][Default] [console] watch for opacity called100
+[07/03/24 12:10:25][792][Default] [console] watch for opacity called100
+[07/03/24 12:11:13][792][Default] [console] watch for opacity called100
+[07/03/24 12:13:33][792][Default] [console] watch for opacity called100
+[07/03/24 12:15:02][792][Default] [console] watch for opacity called100
+[07/03/24 12:15:41][792][Default] [console] watch for opacity called100
+[07/03/24 12:15:46][792][Default] [console] watch for opacity called100
+[07/03/24 12:15:56][792][Default] [console] watch for opacity called100
+[07/03/24 12:16:02][792][Default] [console] watch for opacity called100
+[07/03/24 12:16:04][792][Default] [console] watch for opacity called100
+[07/03/24 12:16:26][792][Default] [console] watch for opacity called100
+[07/03/24 12:16:37][792][Default] [console] watch for opacity called100
+[07/03/24 12:16:59][792][Default] [console] watch for opacity called100
+[07/03/24 12:17:01][792][Default] [console] watch for opacity called100
+[07/03/24 12:17:29][792][Default] [console] watch for opacity called100
+[07/03/24 12:17:45][792][Default] [console] watch for opacity called100
+[07/03/24 12:17:59][792][Default] [console] watch for opacity called100
+[07/03/24 12:18:00][792][Default] [console] watch for opacity called100
+[07/03/24 12:18:15][792][Default] [console] watch for opacity called100
+[07/03/24 12:18:56][792][Default] [console] watch for opacity called100
+[07/03/24 12:21:21][792][Default] [console] watch for opacity called100
+[07/03/24 12:21:24][792][Default] [console] watch for opacity called100
+[07/03/24 12:22:45][792][Default] [console] watch for opacity called100
+[07/03/24 12:23:50][792][Default] [console] watch for opacity called100
+[07/03/24 12:23:52][792][Default] [console] watch for opacity called100
+[07/03/24 12:24:00][792][Default] [console] watch for opacity called100
+[07/03/24 12:24:10][792][Default] [console] watch for opacity called100
+[07/03/24 12:24:19][792][Default] [console] watch for opacity called100
+[07/03/24 12:24:29][792][Default] [console] watch for opacity called100
+[07/03/24 12:24:38][792][Default] [console] watch for opacity called100
+[07/03/24 12:25:00][792][Default] [console] watch for opacity called100
+[07/03/24 12:26:31][792][Default] [console] Detached called inside character view
+[07/03/24 12:26:31][792][Default] [console] watch for opacity called100
+[07/03/24 12:28:17][792][Default] [console] Detached called inside character view
+[07/03/24 12:28:20][792][Default] [console] watch for opacity called100
+[07/03/24 12:28:22][792][Default] [console] watch for opacity called100
+[07/03/24 12:28:25][792][Default] [console] watch for opacity called100
+[07/03/24 12:28:28][792][Default] [console] Detached called inside character view
+[07/03/24 12:28:38][792][Default] [console] Detached called inside character view
+[07/03/24 12:28:44][792][Default] [console] watch for opacity called100
+[07/03/24 12:29:15][792][Default] [console] watch for opacity called100
+[07/03/24 12:29:22][792][Default] [console] watch for opacity called100
+[07/03/24 12:29:28][792][Default] [console] watch for opacity called100
+[07/03/24 12:29:37][792][Default] [console] watch for opacity called100
+[07/03/24 12:29:42][792][Default] [console] watch for opacity called100
+[07/03/24 12:30:25][792][Default] [console] watch for opacity called100
+[07/03/24 12:30:33][792][Default] [console] watch for opacity called100
+[07/03/24 12:30:39][792][Default] [console] watch for opacity called100
+[07/03/24 12:30:44][792][Default] [console] watch for opacity called100
+[07/03/24 12:30:48][792][Default] [console] watch for opacity called100
+[07/03/24 12:30:51][792][Default] [console] watch for opacity called100
+[07/03/24 12:30:58][792][Default] [console] watch for opacity called100
+[07/03/24 12:30:59][792][Default] [console] Detached called inside character view
+[07/03/24 12:31:04][792][Default] [console] watch for opacity called100
+[07/03/24 12:31:11][792][Default] [console] watch for opacity called100
+[07/03/24 12:31:31][792][Default] [console] watch for opacity called100
+[07/03/24 12:32:43][792][Debug] [general] 
+         array = [event.detail.globalRect.left, event.detail.globalRect.top, event.detail.globalRect.width, event.detail.globalRect.height];
+                                          ^
+
+[07/03/24 12:32:43][792][Error] [general] Uncaught JS Exception: 
+webpack:///./src/js/app/Utilities.jsx?:83:41
+TypeError: Cannot read property 'left' of undefined
+    at Function.HandlePopupEvent (webpack:///./src/js/app/Utilities.jsx?:83:42)
+    at ImageButton.eval (webpack:///./src/js/app/TransformView.jsx?:3796:65)
+    at I.p.done.o.runWithNativeHandler (uxp://uxp-internal/domjs_scripts.js:2:7848)
+    at I (uxp://uxp-internal/domjs_scripts.js:2:7740)
+    at uxp://uxp-internal/domjs_scripts.js:2:7232
+    at O (uxp://uxp-internal/domjs_scripts.js:2:7239)
+    at k (uxp://uxp-internal/domjs_scripts.js:2:8017)
+    at e (uxp://uxp-internal/domjs_scripts.js:2:8497)
+    at e.exports.onEvent (uxp://uxp-internal/domjs_scripts.js:2:163078)
+
+
+[07/03/24 12:34:05][792][Default] [console] watch for opacity called100
+[07/03/24 12:37:42][792][Default] [console] watch for opacity called100
+[07/03/24 12:38:11][792][Default] [console] watch for opacity called100
+[07/03/24 12:38:29][792][Default] [console] watch for opacity called100
+[07/03/24 12:38:33][792][Default] [console] watch for opacity called100
+[07/03/24 12:38:45][792][Default] [console] watch for opacity called100
+[07/03/24 12:38:57][792][Default] [console] watch for opacity called100
+[07/03/24 12:39:02][792][Default] [console] watch for opacity called100
+[07/03/24 12:39:16][792][Default] [console] watch for opacity called100
+[07/03/24 12:39:17][792][Default] [console] watch for opacity called100
+[07/03/24 12:39:43][792][Default] [console] watch for opacity called100
+[07/03/24 12:39:46][792][Default] [console] watch for opacity called100
+[07/03/24 12:39:52][792][Default] [console] watch for opacity called100
+[07/03/24 12:40:01][792][Default] [console] watch for opacity called100
+[07/03/24 12:40:12][792][Default] [console] watch for opacity called100
+[07/03/24 12:41:30][792][Default] [console] watch for opacity called100
+[07/03/24 12:42:00][792][Default] [console] watch for opacity called100
+[07/03/24 12:42:12][792][Default] [console] watch for opacity called100
+[07/03/24 12:42:14][792][Default] [console] watch for opacity called100
+[07/03/24 12:42:19][792][Default] [console] watch for opacity called100
+[07/03/24 12:42:25][792][Default] [console] watch for opacity called100
+[07/03/24 12:42:36][792][Default] [console] watch for opacity called100
+[07/03/24 12:42:40][792][Default] [console] watch for opacity called100
+[07/03/24 12:42:50][792][Default] [console] Detached called inside character view
+[07/03/24 12:42:55][792][Default] [console] Detached called inside character view
+[07/03/24 12:43:08][792][Default] [console] Detached called inside character view
+[07/03/24 12:43:18][792][Default] [console] watch for opacity called100
+[07/03/24 12:43:19][792][Default] [console] Detached called inside character view
+[07/03/24 12:43:26][792][Default] [console] watch for opacity called100
+[07/03/24 12:43:39][792][Default] [console] watch for opacity called100
+[07/03/24 12:44:12][792][Default] [console] Detached called inside character view
+[07/03/24 12:44:34][792][Default] [console] Detached called inside character view
+[07/03/24 12:44:36][792][Default] [console] watch for opacity called100
+[07/03/24 12:44:52][792][Default] [console] Detached called inside character view
+[07/03/24 12:44:52][792][Default] [console] watch for opacity called100
+[07/03/24 12:45:02][792][Default] [console] watch for opacity called100
+[07/03/24 12:45:05][792][Default] [console] watch for opacity called100
+[07/03/24 12:45:08][792][Default] [console] Detached called inside character view
+[07/03/24 12:45:20][792][Default] [console] watch for opacity called100
+[07/03/24 12:45:27][792][Default] [console] watch for opacity called100
+[07/03/24 12:45:29][792][Default] [console] watch for opacity called100
+[07/03/24 12:46:02][792][Default] [console] watch for opacity called100
+[07/03/24 12:46:07][792][Default] [console] watch for opacity called100
+[07/03/24 12:46:31][792][Default] [console] watch for opacity called100
+[07/03/24 12:46:52][792][Default] [console] watch for opacity called100
+[07/03/24 12:47:03][792][Default] [console] watch for opacity called100
+[07/03/24 12:47:08][792][Default] [console] watch for opacity called100
+[07/03/24 12:47:36][792][Default] [console] watch for opacity called100
+[07/03/24 12:47:39][792][Default] [console] watch for opacity called100
+[07/03/24 12:47:49][792][Default] [console] watch for opacity called100
+[07/03/24 12:47:53][792][Default] [console] watch for opacity called100
+[07/03/24 12:47:56][792][Default] [console] watch for opacity called100
+[07/10/24 08:43:13][13600][Default] [console] i am called
+[07/10/24 08:43:13][13600][Default] [console] Artboard Move Copytrue
+[07/10/24 08:43:13][13600][Default] [console] Artboard Move testfalse
+[07/10/24 08:43:14][2416][Default] [console] 290 PERF - Start Screen Init start
+[07/10/24 08:43:14][2416][Default] [console] CCX Start v3.2.1.10
+[07/10/24 08:43:14][2416][Default] [console] 290 PERF - Sophia Init start
+[07/10/24 08:43:14][2416][Default] [console] 293 PERF - Ututs Init start
+[07/10/24 08:43:14][2416][Default] [console] 294 PERF - IMS Init start
+[07/10/24 08:43:14][2416][Default] [console] 294 PERF - Locale Init start
+[07/10/24 08:43:14][2416][Default] [console] 302 PERF - MainStore Init start
+[07/10/24 08:43:14][2416][Default] [console] self.launchCount 2
+[07/10/24 08:43:14][2416][Default] [console] 306 PERF - Platform init start
+[07/10/24 08:43:14][2416][Default] [console] 306 PERF - Shared Settings Init start
+[07/10/24 08:43:15][2416][Default] [console] log perf event: time: 1017 message: MainStore Init
+[07/10/24 08:43:15][2416][Default] [console] 1319 PERF - MainStore Init done: 1017
+[07/10/24 08:43:15][2416][Warn] [console] [CDO] @ccx/ccx-cdo/Stylesheets.ts | @ccx/ccx-cdo/theme/Core.css |
+        @ccx/ccx-cdo/theme/CCXHomeScreen/Themes.css will soon be deprecated. 
+        Please read: https://git.corp.adobe.com/CCX/ccx-cdo#theming to update your CDO themes.
+[07/10/24 08:43:16][2416][Default] [console] log perf event: time: 2073 message: UI Ready
+[07/10/24 08:43:16][2416][Default] [console] 2073 PERF - UI Ready
+[07/10/24 08:43:16][2416][Default] [console] 2083 PERF - Launch CCXProcess start
+[07/10/24 08:43:16][2416][Default] [console] log perf event: time: 1793 message: Platform init
+[07/10/24 08:43:16][2416][Default] [console] 2099 PERF - Platform init done: 1793
+[07/10/24 08:43:16][2416][Default] [console] log perf event: time: 16 message: Launch CCXProcess
+[07/10/24 08:43:16][2416][Default] [console] 2099 PERF - Launch CCXProcess done: 16
+[07/10/24 08:43:16][2416][Default] [console] log perf event: time: 1834 message: Locale Init
+[07/10/24 08:43:16][2416][Default] [console] 2128 PERF - Locale Init done: 1834
+[07/10/24 08:43:18][2416][Default] [console] log perf event: time: 4011 message: Sophia Init
+[07/10/24 08:43:18][2416][Default] [console] 4301 PERF - Sophia Init done: 4011
+[07/10/24 08:43:18][2416][Default] [console] Empty response from CCX Process
+[07/10/24 08:43:18][2416][Default] [console] log perf event: time: 4014 message: Ututs Init
+[07/10/24 08:43:18][2416][Default] [console] 4307 PERF - Ututs Init done: 4014
+[07/10/24 08:43:24][2416][Default] [console] Failed to parse NGL user profile 
+[07/10/24 08:43:24][2416][Default] [console] NGL: Showing no chiclet.
+[07/10/24 08:43:24][2416][Default] [console] [DocumentStore-42] _preFetchDocuments - Waiting for initialization to complete
+[07/10/24 08:43:24][2416][Warn] [console] Analytics event missing Sophia data: 
+[07/10/24 08:43:24][2416][Warn] [console] Analytics event missing Sophia data: 
+[07/10/24 08:43:24][2416][Warn] [console] Analytics event missing Sophia data: 
+[07/10/24 08:43:24][2416][Warn] [console] Analytics event missing Sophia data: 
+[07/10/24 08:43:24][2416][Warn] [console] Analytics event missing Sophia data: 
+[07/10/24 08:43:24][2416][Warn] [console] Analytics event missing Sophia data: 
+[07/10/24 08:43:24][2416][Warn] [console] Analytics event missing Sophia data: 
+[07/10/24 08:43:24][2416][Warn] [console] Analytics event missing Sophia data: 
+[07/10/24 08:43:24][2416][Warn] [console] Analytics event missing Sophia data: 
+[07/10/24 08:43:24][2416][Default] [console] User is regressing
+[07/10/24 08:43:46][2416][Warn] [console] Analytics event missing Sophia data: 
+[07/10/24 08:44:06][13600][Default] [console] watch for opacity called100
+[07/10/24 08:46:41][13600][Default] [console] watch for opacity called100
+[07/10/24 08:47:14][13600][Default] [console] watch for opacity called100
+[07/10/24 08:47:32][13600][Default] [console] watch for opacity called100
+[07/10/24 08:48:07][13600][Default] [console] watch for opacity called100
+[07/10/24 08:49:48][13600][Default] [console] watch for opacity called100
+[07/10/24 08:50:02][13600][Default] [console] watch for opacity called100
+[07/10/24 08:50:35][13600][Default] [console] watch for opacity called100
+[07/10/24 09:11:55][13600][Default] [console] watch for opacity called100
+[07/10/24 09:12:04][13600][Default] [console] watch for opacity called100
+[07/10/24 09:12:39][13600][Default] [console] watch for opacity called100
+[07/10/24 09:14:46][13600][Default] [console] watch for opacity called100
+[07/10/24 09:14:54][13600][Default] [console] watch for opacity called100
+[07/10/24 09:22:24][13600][Default] [console] watch for opacity called100
+[07/10/24 09:23:21][13600][Default] [console] watch for opacity called100
+[07/10/24 09:33:30][13600][Default] [console] watch for opacity called100
+[07/10/24 09:34:39][13600][Default] [console] watch for opacity called100
+[07/10/24 09:35:01][13600][Default] [console] watch for opacity called100
+[07/10/24 09:44:08][13600][Default] [console] watch for opacity called100
+[07/10/24 09:44:24][13600][Default] [console] watch for opacity called100
+[07/10/24 09:44:45][13600][Default] [console] watch for opacity called100
+[07/10/24 10:09:57][13600][Default] [console] watch for opacity called100
+[07/10/24 10:45:20][13600][Default] [console] watch for opacity called100
+[07/10/24 10:45:37][13600][Default] [console] watch for opacity called100
+[07/10/24 10:45:46][13600][Default] [console] watch for opacity called100
+[07/10/24 10:46:58][13600][Default] [console] watch for opacity called100
+[07/10/24 10:47:22][13600][Default] [console] watch for opacity called100
+[07/10/24 10:47:43][13600][Default] [console] watch for opacity called0
+[07/10/24 10:47:45][13600][Default] [console] watch for opacity called25
+[07/10/24 10:47:46][13600][Default] [console] watch for opacity called49
+[07/10/24 10:47:47][13600][Default] [console] watch for opacity called52
+[07/10/24 10:47:55][13600][Default] [console] watch for opacity called100
+[07/10/24 10:50:11][13600][Default] [console] watch for opacity called52
+[07/10/24 10:50:29][13600][Default] [console] watch for opacity called100
+[07/10/24 10:50:34][13600][Default] [console] watch for opacity called52
+[07/10/24 10:50:48][13600][Default] [console] watch for opacity called100
+[07/10/24 10:50:49][13600][Default] [console] watch for opacity called52
+[07/10/24 10:50:56][13600][Default] [console] watch for opacity called100
+[07/10/24 10:51:00][13600][Default] [console] watch for opacity called52
+[07/10/24 10:51:14][13600][Default] [console] watch for opacity called100
+[07/10/24 10:51:29][13600][Default] [console] watch for opacity called100
+[07/10/24 10:51:34][13600][Default] [console] watch for opacity called100
+[07/10/24 10:51:45][13600][Default] [console] watch for opacity called100
+[07/10/24 10:52:00][13600][Default] [console] watch for opacity called100
+[07/10/24 10:52:17][13600][Default] [console] watch for opacity called100
+[07/10/24 10:52:31][13600][Default] [console] watch for opacity called100
+[07/10/24 10:52:44][13600][Default] [console] watch for opacity called100
+[07/10/24 10:52:50][13600][Default] [console] watch for opacity called100
+[07/10/24 10:53:45][13600][Default] [console] watch for opacity called100
+[07/10/24 10:54:03][13600][Default] [console] watch for opacity called100
+[07/10/24 10:57:41][13600][Default] [console] watch for opacity called100
+[07/10/24 10:58:37][13600][Default] [console] watch for opacity called100
+[07/10/24 10:59:45][13600][Default] [console] watch for opacity called100
+[07/10/24 11:00:21][13600][Default] [console] watch for opacity called100
+[07/10/24 11:01:07][13600][Default] [console] watch for opacity called100
+[07/10/24 11:01:27][13600][Default] [console] watch for opacity called100
+[07/10/24 11:09:51][13600][Default] [console] watch for opacity called100
+[07/10/24 11:10:03][13600][Default] [console] watch for opacity called100
+[07/10/24 11:10:53][13600][Default] [console] watch for opacity called100
+[07/10/24 11:17:56][13600][Default] [console] watch for opacity called100
+[07/10/24 11:18:51][13600][Default] [console] watch for opacity called100
+[07/10/24 11:23:23][13600][Default] [console] watch for opacity called100
+[07/10/24 11:24:22][13600][Default] [console] watch for opacity called100
+[07/10/24 11:26:36][13600][Default] [console] watch for opacity called100
+[07/10/24 11:28:42][13600][Default] [console] watch for opacity called100
+[07/10/24 11:29:34][13600][Default] [console] watch for opacity called100
+[07/10/24 11:30:16][13600][Default] [console] watch for opacity called100
+[07/10/24 11:30:19][13600][Default] [console] watch for opacity called100
+[07/10/24 11:31:02][13600][Default] [console] watch for opacity called100
+[07/10/24 11:31:19][13600][Default] [console] watch for opacity called100
+[07/10/24 11:31:24][13600][Default] [console] watch for opacity called100
+[07/10/24 11:31:44][13600][Default] [console] watch for opacity called100
+[07/10/24 11:32:00][13600][Default] [console] watch for opacity called100
+[07/10/24 11:32:26][13600][Default] [console] watch for opacity called100
+[07/10/24 11:32:45][13600][Default] [console] watch for opacity called100
+[07/10/24 11:34:10][13600][Default] [console] watch for opacity called100
+[07/10/24 11:34:15][13600][Default] [console] watch for opacity called100
+[07/10/24 11:35:49][13600][Default] [console] watch for opacity called100
+[07/10/24 11:37:06][13600][Default] [console] watch for opacity called100
+[07/10/24 11:37:47][13600][Default] [console] watch for opacity called100
+[07/10/24 11:38:38][13600][Default] [console] watch for opacity called100
+[07/10/24 11:40:27][13600][Default] [console] watch for opacity called100
+[07/10/24 11:42:27][13600][Default] [console] watch for opacity called100
+[07/10/24 11:47:27][13600][Default] [console] watch for opacity called100
+[07/10/24 11:47:37][13600][Default] [console] watch for opacity called100
+[07/10/24 11:48:29][13600][Default] [console] watch for opacity called100
+[07/10/24 11:56:52][13600][Default] [console] watch for opacity called100
+[07/10/24 11:56:59][13600][Default] [console] watch for opacity called100
+[07/10/24 12:02:23][13600][Default] [console] watch for opacity called100
+[07/10/24 12:02:41][13600][Default] [console] watch for opacity called100
+[07/10/24 12:02:51][13600][Default] [console] watch for opacity called100
+[07/10/24 12:03:18][13600][Default] [console] watch for opacity called100
+[07/10/24 12:09:28][13600][Default] [console] watch for opacity called100
+[07/10/24 12:12:16][13600][Default] [console] watch for opacity called100
+[07/10/24 12:13:03][13600][Default] [console] watch for opacity called100
+[07/10/24 12:13:21][13600][Default] [console] watch for opacity called100
+[07/10/24 12:13:26][13600][Default] [console] watch for opacity called100
+[07/10/24 12:13:30][13600][Default] [console] watch for opacity called100
+[07/10/24 12:13:46][13600][Default] [console] watch for opacity called100
+[07/10/24 12:15:57][13600][Default] [console] watch for opacity called100
+[07/10/24 12:19:01][13600][Default] [console] watch for opacity called100
+[07/10/24 12:19:20][13600][Default] [console] watch for opacity called100
+[07/10/24 12:21:40][13600][Default] [console] watch for opacity called100
+[07/10/24 12:26:39][13600][Default] [console] Detached called inside character view
+[07/10/24 12:27:41][13600][Default] [console] Detached called inside character view
+[07/10/24 12:28:41][13600][Default] [console] Detached called inside character view
+[07/10/24 12:28:46][13600][Default] [console] watch for opacity called100
+[07/10/24 12:29:25][13600][Default] [console] Detached called inside character view
+[07/10/24 12:29:26][13600][Default] [console] watch for opacity called100
+[07/10/24 12:29:27][13600][Default] [console] Detached called inside character view
+[07/10/24 12:29:28][13600][Default] [console] watch for opacity called100
+[07/10/24 12:29:28][13600][Default] [console] Detached called inside character view
+[07/10/24 12:29:30][13600][Default] [console] watch for opacity called100
+[07/10/24 12:29:52][13600][Default] [console] Detached called inside character view
+[07/10/24 12:30:06][13600][Default] [console] watch for opacity called100
+[07/10/24 12:30:19][13600][Default] [console] watch for opacity called100
+[07/10/24 12:31:42][13600][Default] [console] watch for opacity called100
+[07/10/24 12:37:39][13600][Default] [console] watch for opacity called100
+[07/10/24 12:38:05][13600][Default] [console] watch for opacity called100
+[07/10/24 12:40:48][13600][Default] [console] Detached called inside character view
+[07/10/24 12:41:32][13600][Default] [console] Detached called inside character view
+[07/10/24 12:42:04][13600][Default] [console] Detached called inside character view
+[07/10/24 12:42:05][13600][Default] [console] watch for opacity called100
+[07/10/24 12:42:05][13600][Default] [console] Detached called inside character view
+[07/10/24 12:42:06][13600][Default] [console] watch for opacity called100
+[07/10/24 12:42:07][13600][Default] [console] Detached called inside character view
+[07/10/24 12:42:10][13600][Default] [console] watch for opacity called100
+[07/10/24 12:42:43][13600][Default] [console] Detached called inside character view
+[07/10/24 12:42:51][13600][Default] [console] watch for opacity called100
+[07/10/24 12:42:57][13600][Default] [console] watch for opacity called100
+[07/10/24 12:43:08][13600][Default] [console] watch for opacity called100
+[07/10/24 12:43:17][13600][Default] [console] watch for opacity called100
+[07/10/24 12:43:22][13600][Default] [console] watch for opacity called100
+[07/10/24 12:43:28][13600][Default] [console] watch for opacity called100
+[07/10/24 12:43:42][13600][Default] [console] watch for opacity called100
+[07/10/24 12:44:00][13600][Default] [console] watch for opacity called100
+[07/10/24 12:44:24][13600][Default] [console] watch for opacity called100
+[07/10/24 12:44:29][13600][Default] [console] watch for opacity called100
+[07/10/24 12:44:32][13600][Default] [console] watch for opacity called100
+[07/10/24 12:45:18][13600][Default] [console] watch for opacity called100
+[07/10/24 12:47:28][13600][Default] [console] watch for opacity called100

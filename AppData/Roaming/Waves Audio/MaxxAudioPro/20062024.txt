@@ -1,0 +1,28 @@
+17:39:21 20/06/2024:
+
+System.Net.WebException: No se puede resolver el nombre remoto: 'dellbchome.waves.com'
+   en System.Net.HttpWebRequest.GetResponse()
+   en MaxxAudioPro.UserNotification.GetRequestJson()
+
+-------------------------------
+17:43:32 20/06/2024:
+
+System.Net.WebException: No se puede resolver el nombre remoto: 'dellbchome.waves.com'
+   en System.Net.HttpWebRequest.GetResponse()
+   en MaxxAudioPro.UserNotification.GetRequestJson()
+
+-------------------------------
+17:43:41 20/06/2024:
+
+System.Net.WebException: No se puede resolver el nombre remoto: 'dellbchome.waves.com'
+   en System.Net.HttpWebRequest.GetResponse()
+   en MaxxAudioPro.UserNotification.GetRequestJson()
+
+-------------------------------
+20:57:38 20/06/2024:
+
+System.Net.WebException: No se puede resolver el nombre remoto: 'dellbchome.waves.com'
+   en System.Net.HttpWebRequest.GetResponse()
+   en MaxxAudioPro.UserNotification.GetRequestJson()
+
+-------------------------------

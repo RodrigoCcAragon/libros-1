@@ -1,0 +1,9 @@
+C:\Users\PC-03\Documents\Lenin Z\proyecto1\proyecto1\proyecto1\Practica 5\Practica 5\bin\Debug\Practica 5.exe.config
+C:\Users\PC-03\Documents\Lenin Z\proyecto1\proyecto1\proyecto1\Practica 5\Practica 5\bin\Debug\Practica 5.exe
+C:\Users\PC-03\Documents\Lenin Z\proyecto1\proyecto1\proyecto1\Practica 5\Practica 5\bin\Debug\Practica 5.pdb
+C:\Users\PC-03\Documents\Lenin Z\proyecto1\proyecto1\proyecto1\Practica 5\Practica 5\obj\Debug\Practica 5.csproj.AssemblyReference.cache
+C:\Users\PC-03\Documents\Lenin Z\proyecto1\proyecto1\proyecto1\Practica 5\Practica 5\obj\Debug\Practica_5.Properties.Resources.resources
+C:\Users\PC-03\Documents\Lenin Z\proyecto1\proyecto1\proyecto1\Practica 5\Practica 5\obj\Debug\Practica 5.csproj.GenerateResource.cache
+C:\Users\PC-03\Documents\Lenin Z\proyecto1\proyecto1\proyecto1\Practica 5\Practica 5\obj\Debug\Practica 5.csproj.CoreCompileInputs.cache
+C:\Users\PC-03\Documents\Lenin Z\proyecto1\proyecto1\proyecto1\Practica 5\Practica 5\obj\Debug\Practica 5.exe
+C:\Users\PC-03\Documents\Lenin Z\proyecto1\proyecto1\proyecto1\Practica 5\Practica 5\obj\Debug\Practica 5.pdb

@@ -1,0 +1,6 @@
+1) Unpack, and burn/mount cd-image
+2) Install, and when asked for a license, choose 
+   the "Import a Rational License File"-option, and point to 
+   our supplied LICENSE.UPD file
+
+Enjoy! // The Force Team 2007

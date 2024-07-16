@@ -1,0 +1,10 @@
+C:\Users\PC-03\Documents\Lenin Z\PRACTICA 2\PRACTICA 2\obj\Debug\PRACTICA 2.csproj.AssemblyReference.cache
+C:\Users\PC-03\Documents\Lenin Z\PRACTICA 2\PRACTICA 2\obj\Debug\PRACTICA_2.Form1.resources
+C:\Users\PC-03\Documents\Lenin Z\PRACTICA 2\PRACTICA 2\obj\Debug\PRACTICA_2.Properties.Resources.resources
+C:\Users\PC-03\Documents\Lenin Z\PRACTICA 2\PRACTICA 2\obj\Debug\PRACTICA 2.csproj.GenerateResource.cache
+C:\Users\PC-03\Documents\Lenin Z\PRACTICA 2\PRACTICA 2\obj\Debug\PRACTICA 2.csproj.CoreCompileInputs.cache
+C:\Users\PC-03\Documents\Lenin Z\PRACTICA 2\PRACTICA 2\bin\Debug\PRACTICA 2.exe.config
+C:\Users\PC-03\Documents\Lenin Z\PRACTICA 2\PRACTICA 2\bin\Debug\PRACTICA 2.exe
+C:\Users\PC-03\Documents\Lenin Z\PRACTICA 2\PRACTICA 2\bin\Debug\PRACTICA 2.pdb
+C:\Users\PC-03\Documents\Lenin Z\PRACTICA 2\PRACTICA 2\obj\Debug\PRACTICA 2.exe
+C:\Users\PC-03\Documents\Lenin Z\PRACTICA 2\PRACTICA 2\obj\Debug\PRACTICA 2.pdb

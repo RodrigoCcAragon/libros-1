@@ -1,0 +1,16 @@
+C:\Users\PC-03\Documents\Victor Noche\wazaaa\wazaaa\obj\Debug\net6.0-windows\wazaaa.Form1.resources
+C:\Users\PC-03\Documents\Victor Noche\wazaaa\wazaaa\obj\Debug\net6.0-windows\wazaaa.csproj.GenerateResource.cache
+C:\Users\PC-03\Documents\Victor Noche\wazaaa\wazaaa\obj\Debug\net6.0-windows\wazaaa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-03\Documents\Victor Noche\wazaaa\wazaaa\obj\Debug\net6.0-windows\wazaaa.AssemblyInfoInputs.cache
+C:\Users\PC-03\Documents\Victor Noche\wazaaa\wazaaa\obj\Debug\net6.0-windows\wazaaa.AssemblyInfo.cs
+C:\Users\PC-03\Documents\Victor Noche\wazaaa\wazaaa\obj\Debug\net6.0-windows\wazaaa.csproj.CoreCompileInputs.cache
+C:\Users\PC-03\Documents\Victor Noche\wazaaa\wazaaa\bin\Debug\net6.0-windows\wazaaa.exe
+C:\Users\PC-03\Documents\Victor Noche\wazaaa\wazaaa\bin\Debug\net6.0-windows\wazaaa.deps.json
+C:\Users\PC-03\Documents\Victor Noche\wazaaa\wazaaa\bin\Debug\net6.0-windows\wazaaa.runtimeconfig.json
+C:\Users\PC-03\Documents\Victor Noche\wazaaa\wazaaa\bin\Debug\net6.0-windows\wazaaa.dll
+C:\Users\PC-03\Documents\Victor Noche\wazaaa\wazaaa\bin\Debug\net6.0-windows\wazaaa.pdb
+C:\Users\PC-03\Documents\Victor Noche\wazaaa\wazaaa\obj\Debug\net6.0-windows\wazaaa.dll
+C:\Users\PC-03\Documents\Victor Noche\wazaaa\wazaaa\obj\Debug\net6.0-windows\refint\wazaaa.dll
+C:\Users\PC-03\Documents\Victor Noche\wazaaa\wazaaa\obj\Debug\net6.0-windows\wazaaa.pdb
+C:\Users\PC-03\Documents\Victor Noche\wazaaa\wazaaa\obj\Debug\net6.0-windows\wazaaa.genruntimeconfig.cache
+C:\Users\PC-03\Documents\Victor Noche\wazaaa\wazaaa\obj\Debug\net6.0-windows\ref\wazaaa.dll

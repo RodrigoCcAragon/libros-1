@@ -1,0 +1,11 @@
+C:\Users\PC-03\Documents\Victor Noche\Examen21.06\Examen21.06\bin\Debug\Examen21.06.exe.config
+C:\Users\PC-03\Documents\Victor Noche\Examen21.06\Examen21.06\bin\Debug\Examen21.06.exe
+C:\Users\PC-03\Documents\Victor Noche\Examen21.06\Examen21.06\bin\Debug\Examen21.06.pdb
+C:\Users\PC-03\Documents\Victor Noche\Examen21.06\Examen21.06\obj\Debug\Examen21.06.csproj.AssemblyReference.cache
+C:\Users\PC-03\Documents\Victor Noche\Examen21.06\Examen21.06\obj\Debug\Examen21._06.cbo_1.resources
+C:\Users\PC-03\Documents\Victor Noche\Examen21.06\Examen21.06\obj\Debug\Examen21._06.Properties.Resources.resources
+C:\Users\PC-03\Documents\Victor Noche\Examen21.06\Examen21.06\obj\Debug\Examen21.06.csproj.GenerateResource.cache
+C:\Users\PC-03\Documents\Victor Noche\Examen21.06\Examen21.06\obj\Debug\Examen21.06.csproj.CoreCompileInputs.cache
+C:\Users\PC-03\Documents\Victor Noche\Examen21.06\Examen21.06\obj\Debug\Examen21.06.exe
+C:\Users\PC-03\Documents\Victor Noche\Examen21.06\Examen21.06\obj\Debug\Examen21.06.pdb
+C:\Users\PC-03\Documents\Victor Noche\Examen21.06\Examen21.06\obj\Debug\Examen21._06.cbo_2.resources

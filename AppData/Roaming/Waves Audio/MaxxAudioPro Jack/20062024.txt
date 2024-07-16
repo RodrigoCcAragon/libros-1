@@ -1,0 +1,40 @@
+17:39:20 20/06/2024:
+
+mainWinHeight > screenHeight resolution changed to 0.751121076233184 from 0.828
+
+-------------------------------
+17:39:20 20/06/2024:
+
+Orientation sensor does not exist
+
+-------------------------------
+17:43:32 20/06/2024:
+
+mainWinHeight > screenHeight resolution changed to 0.751121076233184 from 0.828
+
+-------------------------------
+17:43:32 20/06/2024:
+
+Orientation sensor does not exist
+
+-------------------------------
+17:43:41 20/06/2024:
+
+mainWinHeight > screenHeight resolution changed to 0.751121076233184 from 0.828
+
+-------------------------------
+17:43:41 20/06/2024:
+
+Orientation sensor does not exist
+
+-------------------------------
+20:57:38 20/06/2024:
+
+mainWinHeight > screenHeight resolution changed to 0.751121076233184 from 0.828
+
+-------------------------------
+20:57:38 20/06/2024:
+
+Orientation sensor does not exist
+
+-------------------------------

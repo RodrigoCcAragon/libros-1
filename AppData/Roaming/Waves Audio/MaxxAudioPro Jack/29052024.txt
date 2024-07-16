@@ -1,0 +1,10 @@
+11:12:08 29/05/2024:
+
+mainWinHeight > screenHeight resolution changed to 0.751121076233184 from 0.828
+
+-------------------------------
+11:12:08 29/05/2024:
+
+Orientation sensor does not exist
+
+-------------------------------

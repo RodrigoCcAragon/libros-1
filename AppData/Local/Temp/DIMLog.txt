@@ -1,0 +1,94 @@
+07/15/24 08:42:36   --------Starting DIM-------->
+07/15/24 08:42:36   15/07/2024 08:42:36
+07/15/24 08:42:36   procid: 12612
+07/15/24 08:42:36   --------Starting DIM-------->
+07/15/24 08:42:36   15/07/2024 08:42:36
+07/15/24 08:42:36   procid: 7520
+07/15/24 08:42:37   Locking instance
+07/15/24 08:42:37   Job Parameters are:
+07/15/24 08:42:37   IPM-Common-x64-22.msp, IPM-Common-x64-up19.msp, IPM-Common-x64-up20.msp, IPM-Common-x86-22.msp, IPM-Common-x86-up19.msp, IPM-Common-x86-up20.msp, IPM_Common-x64.msp, IPM_Common-x86.msp, IPM_Common.msp, dimchain.cfg, dimchain.exe
+07/15/24 08:42:37   (null)
+07/15/24 08:42:37   Using custom UI at:
+07/15/24 08:42:37   c:\users\pc-03\appdata\roaming\corel\messages\540111125_707000\es\messagecache2\workflow\ui\downloaddlg.html
+07/15/24 08:42:37   Submitting Job
+07/15/24 08:42:37   Downloading files:
+07/15/24 08:42:37   Resuming Sub Job
+07/15/24 08:42:37   Resuming Sub Job
+07/15/24 08:42:37   Could not resume a sub job:
+07/15/24 08:42:37   1698088516225
+07/15/24 08:42:37   Could not download files
+07/15/24 08:42:37   Unlocking instance
+07/15/24 08:42:37   <--------Ending DIM--------
+07/15/24 08:42:37   (null)
+07/15/24 08:43:35   --------Starting DIM-------->
+07/15/24 08:43:35   15/07/2024 08:43:35
+07/15/24 08:43:35   procid: 7876
+07/15/24 08:43:36   Locking instance
+07/15/24 08:43:36   Job Parameters are:
+07/15/24 08:43:36   1620021446574
+07/15/24 08:43:36   Descargando revisión...
+07/15/24 08:43:36   CDGS2021U164.exe
+07/15/24 08:43:36   (null)
+07/15/24 08:43:36   Using custom UI at:
+07/15/24 08:43:36   c:\users\pc-03\appdata\roaming\corel\messages\540111125_707000\es\messagecache2\workflow\ui\downloaddlg.html
+07/15/24 08:43:36   Submitting Job
+07/15/24 08:43:36   Downloading files:
+07/15/24 08:43:36   Resuming Sub Job
+07/15/24 08:43:36   Could not resume a sub job:
+07/15/24 08:43:36   1620021446574
+07/15/24 08:43:36   Could not download files
+07/15/24 08:43:36   Unlocking instance
+07/15/24 08:43:36   <--------Ending DIM--------
+07/15/24 08:43:36   (null)
+07/15/24 12:06:28   --------Starting DIM-------->
+07/15/24 12:06:28   15/07/2024 12:06:28
+07/15/24 12:06:28   procid: 16752
+07/15/24 12:06:28   --------Starting DIM-------->
+07/15/24 12:06:28   15/07/2024 12:06:28
+07/15/24 12:06:28   procid: 19504
+07/15/24 12:06:28   Locking instance
+07/15/24 12:06:28   Job Parameters are:
+07/15/24 12:06:28   1698088516225
+07/15/24 12:06:28   Downloading your update...
+07/15/24 12:06:28   IPM-Common-x64-22.msp, IPM-Common-x64-up19.msp, IPM-Common-x64-up20.msp, IPM-Common-x86-22.msp, IPM-Common-x86-up19.msp, IPM-Common-x86-up20.msp, IPM_Common-x64.msp, IPM_Common-x86.msp, IPM_Common.msp, dimchain.cfg, dimchain.exe
+07/15/24 12:06:28   (null)
+07/15/24 12:06:28   Using custom UI at:
+07/15/24 12:06:28   c:\users\pc-03\appdata\roaming\corel\messages\540111125_707000\es\messagecache2\workflow\ui\downloaddlg.html
+07/15/24 12:06:28   Submitting Job
+07/15/24 12:06:28   Locking instance
+07/15/24 12:06:28   Job Parameters are:
+07/15/24 12:06:28   1698088516803
+07/15/24 12:06:28   Downloading your update...
+07/15/24 12:06:28   IPM-Common-x64-22.msp, IPM-Common-x64-up19.msp, IPM-Common-x64-up20.msp, IPM-Common-x86-22.msp, IPM-Common-x86-up19.msp, IPM-Common-x86-up20.msp, IPM_Common-x64.msp, IPM_Common-x86.msp, IPM_Common.msp, dimchain.cfg, dimchain.exe
+07/15/24 12:06:28   (null)
+07/15/24 12:06:28   Using custom UI at:
+07/15/24 12:06:28   c:\users\pc-03\appdata\roaming\corel\messages\540111125_707000\es\messagecache2\workflow\ui\downloaddlg.html
+07/15/24 12:06:28   Submitting Job
+07/15/24 12:06:32   Downloading files:
+07/15/24 12:06:32   Resuming Sub Job
+07/15/24 12:06:32   Could not download files
+07/15/24 12:06:32   Unlocking instance
+07/15/24 12:06:32   Could not download files
+07/15/24 12:06:32   Unlocking instance
+07/15/24 12:06:32   <--------Ending DIM--------
+07/15/24 12:06:32   (null)
+07/15/24 12:06:45   --------Starting DIM-------->
+07/15/24 12:06:45   15/07/2024 12:06:45
+07/15/24 12:06:45   procid: 10224
+07/15/24 12:06:46   Locking instance
+07/15/24 12:06:46   Job Parameters are:
+07/15/24 12:06:46   1620021446574
+07/15/24 12:06:46   Descargando revisión...
+07/15/24 12:06:46   CDGS2021U164.exe
+07/15/24 12:06:46   (null)
+07/15/24 12:06:46   Using custom UI at:
+07/15/24 12:06:46   c:\users\pc-03\appdata\roaming\corel\messages\540111125_707000\es\messagecache2\workflow\ui\downloaddlg.html
+07/15/24 12:06:46   Submitting Job
+07/15/24 12:06:46   Downloading files:
+07/15/24 12:06:46   Resuming Sub Job
+07/15/24 12:06:46   Could not resume a sub job:
+07/15/24 12:06:46   1620021446574
+07/15/24 12:06:46   Could not download files
+07/15/24 12:06:46   Unlocking instance
+07/15/24 12:06:46   <--------Ending DIM--------
+07/15/24 12:06:46   (null)

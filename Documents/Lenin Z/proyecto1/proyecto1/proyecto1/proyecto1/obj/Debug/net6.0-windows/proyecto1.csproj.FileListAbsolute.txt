@@ -1,0 +1,6 @@
+C:\Users\PC-03\Documents\Lenin Z\proyecto1\proyecto1\proyecto1\proyecto1\obj\Debug\net6.0-windows\proyecto1.Form1.resources
+C:\Users\PC-03\Documents\Lenin Z\proyecto1\proyecto1\proyecto1\proyecto1\obj\Debug\net6.0-windows\proyecto1.csproj.GenerateResource.cache
+C:\Users\PC-03\Documents\Lenin Z\proyecto1\proyecto1\proyecto1\proyecto1\obj\Debug\net6.0-windows\proyecto1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-03\Documents\Lenin Z\proyecto1\proyecto1\proyecto1\proyecto1\obj\Debug\net6.0-windows\proyecto1.AssemblyInfoInputs.cache
+C:\Users\PC-03\Documents\Lenin Z\proyecto1\proyecto1\proyecto1\proyecto1\obj\Debug\net6.0-windows\proyecto1.AssemblyInfo.cs
+C:\Users\PC-03\Documents\Lenin Z\proyecto1\proyecto1\proyecto1\proyecto1\obj\Debug\net6.0-windows\proyecto1.csproj.CoreCompileInputs.cache

@@ -1,0 +1,206 @@
+/*
+ * EJERCICIO 08
+ */
+//double desto;
+//double pagar;
+//double precio_compra;
+
+//precio_compra = Double.Parse(Console.ReadLine());
+
+//if (precio_compra > 1000)
+//{
+//    desto = precio_compra * (20 / 100.0);
+//}
+//else
+//{
+//    desto = precio_compra * (5 / 100.0);
+//}
+//pagar = precio_compra - desto;
+
+//Console.WriteLine("El monto a pagar es: " + pagar);
+
+/*
+ * EJERCICIO 09
+ */
+//double horas;
+//double hx;
+//double sueldo;
+//double sx;
+//double tarifa;
+//Console.WriteLine("Ingrese sus Horas Trabajadas");
+//horas = Double.Parse(Console.ReadLine());
+//Console.WriteLine("Ingrese su Tarifa por hora");
+//tarifa = Double.Parse(Console.ReadLine());
+//if (horas > 40)
+//{
+//    sueldo = tarifa * 40;
+//    hx = horas - 40;
+//    sx = hx * (2.7 * tarifa);
+//    sueldo += sx;
+//}
+//else
+//{
+//    sueldo = horas * tarifa;
+//}
+//Console.WriteLine("El pago es:" + sueldo);
+
+/*
+ * EJERCICIO 10
+ */
+
+//double b_i;
+//double horas;
+//double hx;
+//double imp;
+//string nombre;
+//double sx;
+//double s_b;
+//double s_n;
+//double tarifa;
+
+//Console.WriteLine("INGRESE SU NOMBRE");
+//nombre = Console.ReadLine();
+//Console.WriteLine("INGRRESE SU HORAS TRABAJADAS");
+//horas = Double.Parse(Console.ReadLine());
+//tarifa = 80;
+//if (horas > 35)
+//{
+//    s_b = tarifa * 35;
+//    hx = horas - 35;
+//    sx = hx * (2.5 * tarifa);
+//    s_b = s_b + sx;
+//}
+//else
+//{
+//    s_b = horas * tarifa;
+//}
+//if (s_b <= 6000)
+//{
+//    imp = 0;
+//}
+//else
+//{
+//    if (s_b <= 10000)
+//    {
+//        b_i = s_b - 6000;
+//        imp = (25 / 100.0) * b_i;
+//    }
+//    else
+//    {
+//        imp = (25 / 100.0) * 4000;
+//        b_i = s_b - 10000;
+//        imp = imp + ((45 / 100.0) * b_i);
+//        // 45/100==>0.45
+//    }
+//}
+//s_n = s_b - imp;
+////Console.Clear();
+//Console.WriteLine("Estimado: " + nombre);
+//Console.WriteLine("Sueldo Bruto: " + s_b);
+//Console.WriteLine("Impuesto: " + imp);
+//Console.WriteLine("Sueldo Neto: " + s_n);
+
+/*
+ * EJERCICIO 11
+ */
+
+//double peso;
+//double precio=0;
+//double p_i;
+//int tam;
+//string tipo;
+//double total;
+//Console.WriteLine("Ingrese el precio inicial de la uva");
+//p_i = Double.Parse(Console.ReadLine());
+//Console.WriteLine("Tipo de uva");
+//tipo = Console.ReadLine();
+//Console.WriteLine("Tamaño de uva");
+//tam = int.Parse(Console.ReadLine());
+//Console.WriteLine("Peso en kg");
+//peso = Double.Parse(Console.ReadLine());
+//switch (tipo)
+//{
+//    case "VERDE":
+//        switch (tam)
+//        {
+//            case 1:
+//                precio = p_i + 0.20;
+//                break;
+//            case 2:
+//                precio = p_i + 0.3;
+//                break;
+//            default:
+//                Console.WriteLine("Error en tamaño");
+//                break;
+//        }
+//        break;
+//    case "MORADA":
+//        switch (tam)
+//        {
+//            case 1:
+//                precio = p_i - 0.30;
+//                break;
+//            case 2:
+//                precio = p_i - 0.50;
+//                break;
+//            default:
+//                Console.WriteLine("Error de tamaño");
+//                break;
+//        }
+//        break;
+//    default:
+//        Console.WriteLine("Error de tipo de uva");
+//        break;
+//}
+//total = peso * precio;
+//Console.WriteLine("Total a pagar es: " + total);
+
+
+/*
+ * EJERCICIO 12
+ */
+
+//double alumnos;
+//double pago;
+//double precio;
+//Console.WriteLine("Cuantos alumos son?");
+//alumnos = Double.Parse(Console.ReadLine());
+//if (alumnos >= 100)
+//{
+//    precio = 65;
+//}
+//else
+//{
+//    if (alumnos >= 50)
+//    {
+//        precio = 70;
+//    }
+//    else
+//    {
+//        if (alumnos >= 30)
+//        {
+//            precio = 95;
+//        }
+//        else
+//        {
+//            precio = 4000 / alumnos;
+//        }
+//    }
+//}
+//pago = alumnos * precio;
+//Console.WriteLine("El precio por alumno es " + precio);
+//Console.WriteLine("El pago es: " + pago);
+
+
+/*
+ * EJERCICIO 13
+ */
+
+//double n_s;
+//double salario;
+//double total_cobrado;
+//Console.WriteLine("Ingrese su Salario Anteriior");
+//salario = Double.Parse(Console.ReadLine());
+//n_s = salario + (25 / 100.0 * salario);
+//total_cobrado = n_s * 10;
+//Console.WriteLine("El salario total es: " + total_cobrado);

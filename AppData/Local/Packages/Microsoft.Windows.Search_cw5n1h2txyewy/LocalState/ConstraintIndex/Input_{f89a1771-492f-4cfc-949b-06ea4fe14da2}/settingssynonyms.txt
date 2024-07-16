@@ -1,0 +1,695 @@
+*|Change network adapter options	*|Network connections	64000
+*|acceder al trabajo o colegio	*|dominio	852
+*|acerca de tu pc	*|about	3557
+*|acerca de tu pc	*|mi pc	4887
+*|acerca de tu pc	*|propiedades del sistema	3983
+*|acerca de tu pc	*|sistema operativo	4001
+*|acerca de tu pc	*|sistemas	6224
+*|acerca de tu pc	*|system in	5914
+*|activar el modo de juego	*|game mode	1341
+*|activar el modo juego	*|game mode	758
+*|activar el modo oscuro para las aplicaciones	*|tema	463
+*|activar o desactivar audio mono	*|auriculares	2655
+*|activar o desactivar el ahorro de batería	*|bateria	404
+*|activar o desactivar el panel táctil	*|touchpad	1825
+*|activar o desactivar el protector de pantalla	*|apagar pantalla	2939
+*|activar o desactivar el protector de pantalla	*|screen saver	3135
+*|activar o desactivar el sonido mono	*|auri	1703
+*|activar o desactivar las características de windows	*|caracteristicas de windows	5048
+*|activar o desactivar las características de windows	*|features	5029
+*|activar o desactivar las características de windows	*|hyper v	4815
+*|activar o desactivar las características de windows	*|hyper-v	4716
+*|activar o desactivar las características de windows	*|hyperv	5743
+*|activar o desactivar las características de windows	*|telnet	4962
+*|activar o desactivar las características de windows	*|turn windows features on or off	5150
+*|activar o desactivar los dispositivos inalámbricos	*|nfc	3614
+*|activar o desactivar los dispositivos inalámbricos	*|wifi	832
+*|activar xbox game bar	*|dvr	2671
+*|add or remove programs	*|apps	4186
+*|add or remove programs	*|uninstall	3883
+*|add or remove programs	*|unistall	5819
+*|adjust volume	*|spea	2693
+*|administración del color	*|administrador de color	693
+*|administrador de dispositivos	*|adimi	8027
+*|administrador de dispositivos	*|admii	6832
+*|administrador de dispositivos	*|admim	8231
+*|administrador de dispositivos	*|adminid	8387
+*|administrador de dispositivos	*|administa	7352
+*|administrador de dispositivos	*|administracion de dispositivos	8350
+*|administrador de dispositivos	*|administradir	8417
+*|administrador de dispositivos	*|administrador de dispositivos.	8808
+*|administrador de dispositivos	*|administrador de s	8356
+*|administrador de dispositivos	*|administrados	8166
+*|administrador de dispositivos	*|administrar dis	8696
+*|administrador de dispositivos	*|administrdor	8795
+*|administrador de dispositivos	*|adminitrador de	8366
+*|administrador de dispositivos	*|adminstrador	8161
+*|administrador de dispositivos	*|admis	6305
+*|administrador de dispositivos	*|admni	6800
+*|administrador de dispositivos	*|admo	7170
+*|administrador de dispositivos	*|adni	7587
+*|administrador de dispositivos	*|aminis	8746
+*|administrador de dispositivos	*|controlador de	7793
+*|administrador de dispositivos	*|controladores	5281
+*|administrador de dispositivos	*|device manager	5784
+*|administrador de dispositivos	*|divice manager	8608
+*|administrador de dispositivos	*|drivers	5484
+*|administrador de dispositivos	*|dvd	7980
+*|administrador de dispositivos	*|hardware	6753
+*|administrador de dispositivos	*|hdmi	7674
+*|administrador de dispositivos	*|manager	7394
+*|administrador de dispositivos	*|tarjeta grafica	7234
+*|administrador de dispositivos	*|usb	5151
+*|administrar bitlocker	*|cifrado	5295
+*|administrar configuración avanzada de uso compartido	*|compartir	2061
+*|administrar dispositivos de entrada	*|audio	172
+*|administrar dispositivos de sonido	*|altavo	764
+*|administrar dispositivos de sonido	*|audio	627
+*|agregar o quitar programas	*|add or	8098
+*|agregar o quitar programas	*|agragar	8339
+*|agregar o quitar programas	*|agref	8905
+*|agregar o quitar programas	*|agrgar	7944
+*|agregar o quitar programas	*|apagar	5382
+*|agregar o quitar programas	*|aplicaciones	5257
+*|agregar o quitar programas	*|appl	8884
+*|agregar o quitar programas	*|apps	7736
+*|agregar o quitar programas	*|borrar	6924
+*|agregar o quitar programas	*|dei	8884
+*|agregar o quitar programas	*|desinstalar programas	7402
+*|agregar o quitar programas	*|desinstalr	8944
+*|agregar o quitar programas	*|eliminar programas	8088
+*|agregar o quitar programas	*|instala	7579
+*|agregar o quitar programas	*|programas y cara	7891
+*|agregar o quitar programas	*|programs	6857
+*|agregar o quitar programas	*|progras	8566
+*|agregar o quitar programas	*|quia	8456
+*|agregar o quitar programas	*|quir	7705
+*|agregar o quitar programas	*|quitqr	8676
+*|agregar o quitar programas	*|quitr	7656
+*|agregar o quitar programas	*|remove	6864
+*|agregar o quitar programas	*|software	8698
+*|agregar o quitar programas	*|uninstall	8450
+*|agregar o quitar programas	*|unistall	7825
+*|agregar una característica opcional	*|funciones	1
+*|agregar, editar o eliminar otros usuarios	*|cuentas	1385
+*|agregar, editar o quitar otros usuarios	*|cuentas	1753
+*|agregar, editar o quitar otros usuarios	*|user	3564
+*|ahorro de batería	*|bateria	714
+*|ajustar la apariencia y rendimiento de windows	*|performance	5297
+*|ajustar volumen	*|audio	3962
+*|ajustar volumen	*|sonido	4736
+*|aplicaciones de inicio	*|startup	4278
+*|aplicaciones en segundo plano	*|permisos	5199
+*|aplicaciones predeterminadas	*|aplicaiones	6604
+*|aplicaciones predeterminadas	*|apps	6105
+*|aplicaciones predeterminadas	*|default	5006
+*|aplicaciones predeterminadas	*|programas predeterminados	6429
+*|aplicaciones y características	*|ajustes	5396
+*|aplicaciones y características	*|apps	3634
+*|aplicaciones y características	*|desinstalar aplicaciones	6086
+*|aplicaciones y características	*|desinstalar programas	5835
+*|aplicaciones y características	*|desinstalar un programa	5389
+*|aplicaciones y características	*|desintalar programas	6032
+*|aplicaciones y características	*|desisntalar	5991
+*|aplicaciones y características	*|desistalar	3593
+*|aplicaciones y características	*|programas	2954
+*|aplicaciones y características	*|uninstall	4937
+*|apps & features	*|apps and	3545
+*|apps & features	*|programs	3701
+*|aumentar el tamaño del texto	*|fuente	2361
+*|background image settings	*|wall	866
+*|battery saver settings	*|bater	1976
+*|bluetooth and other devices settings	*|bkue	7501
+*|bluetooth and other devices settings	*|bleu	7597
+*|bluetooth and other devices settings	*|blie	7609
+*|bluetooth and other devices settings	*|bloot	7287
+*|bluetooth and other devices settings	*|bluee	7105
+*|bluetooth and other devices settings	*|bluer	7713
+*|bluetooth and other devices settings	*|bluetho	7465
+*|bluetooth and other devices settings	*|bluetooh	7554
+*|bluetooth and other devices settings	*|bluetto	7597
+*|bluetooth and other devices settings	*|blui	7744
+*|bluetooth and other devices settings	*|blur	6411
+*|bluetooth and other devices settings	*|bluto	7276
+*|bluetooth and other devices settings	*|bluw	6814
+*|bluetooth and other devices settings	*|bly	7245
+*|bluetooth and other devices settings	*|bue	6635
+*|bluetooth and other devices settings	*|vlue	7467
+*|bluetooth y otras opciones de configuración de dispositivos	*|agregar dis	9629
+*|bluetooth y otras opciones de configuración de dispositivos	*|ble	5654
+*|bluetooth y otras opciones de configuración de dispositivos	*|bliue	9659
+*|bluetooth y otras opciones de configuración de dispositivos	*|bllue	8944
+*|bluetooth y otras opciones de configuración de dispositivos	*|bloet	9001
+*|bluetooth y otras opciones de configuración de dispositivos	*|bloo	4709
+*|bluetooth y otras opciones de configuración de dispositivos	*|blot	6405
+*|bluetooth y otras opciones de configuración de dispositivos	*|bloue	8493
+*|bluetooth y otras opciones de configuración de dispositivos	*|bluethoot	7340
+*|bluetooth y otras opciones de configuración de dispositivos	*|bluetoth	9602
+*|bluetooth y otras opciones de configuración de dispositivos	*|blutooth	8938
+*|bluetooth y otras opciones de configuración de dispositivos	*|blutu	6584
+*|bluetooth y otras opciones de configuración de dispositivos	*|proyector	7430
+*|busca y corrige problemas con la grabación de sonidos	*|microfono	1
+*|buscar actualizaciones	*|actualia	8968
+*|buscar actualizaciones	*|actualización	8763
+*|buscar actualizaciones	*|actualizar	6139
+*|buscar actualizaciones	*|actuañ	9279
+*|buscar actualizaciones	*|actul	7926
+*|buscar actualizaciones	*|actus	8736
+*|buscar actualizaciones	*|acty	7959
+*|buscar actualizaciones	*|acut	9215
+*|buscar actualizaciones	*|check	7927
+*|buscar actualizaciones	*|comprobacion	8697
+*|buscar actualizaciones	*|controladores	8447
+*|buscar actualizaciones	*|drivers	8365
+*|buscar actualizaciones	*|pda	8840
+*|buscar actualizaciones	*|udate	8322
+*|buscar actualizaciones	*|uodate	7611
+*|buscar actualizaciones	*|uop	8672
+*|buscar actualizaciones	*|up date	9055
+*|buscar actualizaciones	*|upad	9217
+*|buscar actualizaciones	*|updae	7780
+*|buscar actualizaciones	*|updare	9322
+*|buscar actualizaciones	*|updater	8685
+*|buscar actualizaciones	*|updates	6223
+*|buscar actualizaciones	*|updatre	9018
+*|buscar actualizaciones	*|updatw	9467
+*|buscar actualizaciones	*|upday	9436
+*|buscar actualizaciones	*|upds	8782
+*|buscar actualizaciones	*|updte	7926
+*|buscar actualizaciones	*|upf	8716
+*|buscar actualizaciones	*|upo	7980
+*|buscar actualizaciones	*|upp	9167
+*|buscar actualizaciones	*|ups	7850
+*|buscar actualizaciones	*|upt	7561
+*|buscar actualizaciones	*|windos	8719
+*|buscar actualizaciones	*|windows uo	8588
+*|buscar actualizaciones	*|windows update	4706
+*|buscar actualizaciones	*|windowsupdate	9008
+*|buscar actualizaciones	*|windw	9529
+*|buscar actualizaciones	*|wup	9303
+*|buscar y corregir problemas con el adaptador de red	*|ethernet	1
+*|buscar y corregir problemas con la grabación de sonido	*|microfono	693
+*|buscar y corregir problemas con la reproducción de sonido	*|solucionador de problemas de audio	1
+*|cambiar color del puntero del mouse	*|cursor	843
+*|cambiar configuración de control de cuentas de usuario	*|uac	814
+*|cambiar configuración de wi-fi	*|wifi	1426
+*|cambiar configuración del narrador	*|lector	1
+*|cambiar cuánto se desplaza con la rueda del mouse	*|raton	693
+*|cambiar cuánto se desplaza con la rueda del mouse	*|scroll	2596
+*|cambiar el color del puntero del mouse	*|cursor	462
+*|cambiar el nivel de brillo	*|billo	7274
+*|cambiar el nivel de brillo	*|bright	7409
+*|cambiar el nivel de brillo	*|brilllo	6623
+*|cambiar el nivel de brillo	*|brillo de	7037
+*|cambiar el nivel de brillo	*|briloo	6907
+*|cambiar el nivel de brillo	*|display	6861
+*|cambiar el país o región	*|region	926
+*|cambiar el perfil de color actual	*|rgb	1
+*|cambiar el tamaño del texto, las aplicaciones y otros elementos	*|dpi	2383
+*|cambiar el tamaño del texto, las aplicaciones y otros elementos	*|escala	2762
+*|cambiar el tamaño del texto, las aplicaciones y otros elementos	*|monitores	3187
+*|cambiar el tamaño del texto, las aplicaciones y otros elementos	*|pantalla	1776
+*|cambiar horas activas	*|update	1
+*|cambiar la acción que se produce al cerrar la tapa del equipo	*|lid	3809
+*|cambiar la configuración de pantalla	*|bri	2711
+*|cambiar la configuración del mouse	*|clic	6691
+*|cambiar la configuración del mouse	*|mause	3099
+*|cambiar la configuración del mouse	*|mose	6757
+*|cambiar la configuración del mouse	*|moua	6477
+*|cambiar la configuración del mouse	*|moue	5715
+*|cambiar la configuración del mouse	*|propiedades del mouse	6342
+*|cambiar la configuración del mouse	*|raton	3905
+*|cambiar la contraseña	*|cambiar contraseña	3722
+*|cambiar la contraseña	*|contraseñas	3441
+*|cambiar la contraseña	*|huella	3216
+*|cambiar la contraseña	*|password	5344
+*|cambiar la contraseña	*|windows hello	5350
+*|cambiar la fecha y hora	*|ajustar hora	7206
+*|cambiar la fecha y hora	*|cambiar fecha	5544
+*|cambiar la fecha y hora	*|cambiar hora	5319
+*|cambiar la fecha y hora	*|configurar hora	6113
+*|cambiar la fecha y hora	*|date	5987
+*|cambiar la fecha y hora	*|hora y fecha	5316
+*|cambiar la fecha y hora	*|reloj	3875
+*|cambiar la fecha y hora	*|time	6013
+*|cambiar la frecuencia con la que el equipo entra en estado de suspensión	*|suspender	1340
+*|cambiar la frecuencia con la que el equipo entra en estado de suspensión cuando está enchufado	*|sleep	4059
+*|cambiar la frecuencia con la que el equipo entra en estado de suspensión cuando está enchufado	*|suspender	1325
+*|cambiar la imagen de cuenta	*|cuentas	1512
+*|cambiar la imagen de cuenta	*|perfiles	249
+*|cambiar la orientación de la pantalla	*|girar	1702
+*|cambiar la orientación de la pantalla	*|orientacion	3281
+*|cambiar la orientación de la pantalla	*|rotar	2176
+*|cambiar la pantalla primaria	*|monitor	2741
+*|cambiar la pantalla principal	*|monitor	2647
+*|cambiar la resolución de la pantalla	*|display	5347
+*|cambiar la resolución de la pantalla	*|monitor	5208
+*|cambiar la resolución de la pantalla	*|resolucion de pantalla	5706
+*|cambiar la resolución de la pantalla	*|tamaño	5992
+*|cambiar las opciones de búsqueda en archivos y carpetas	*|opciones de carpeta	938
+*|cambiar nivel de brillo	*|billo	7345
+*|cambiar nivel de brillo	*|bright	7179
+*|cambiar nivel de brillo	*|brilla	7868
+*|cambiar nivel de brillo	*|brilllo	6760
+*|cambiar nivel de brillo	*|brillo de pantalla	7100
+*|cambiar nivel de brillo	*|briloo	6954
+*|cambiar nivel de brillo	*|display	6686
+*|cambiar nivel de brillo	*|screen	8093
+*|cambiar opciones avanzadas de inicio	*|arranque	2196
+*|cambiar opciones avanzadas de inicio	*|bios	1652
+*|cambiar opciones avanzadas de inicio	*|boot	3765
+*|cambiar opciones avanzadas de inicio	*|inicio avanzado	4694
+*|cambiar opciones avanzadas de inicio	*|modo seguro	3134
+*|cambiar opciones avanzadas de inicio	*|uefi	3568
+*|cambiar país o región	*|region	291
+*|cambiar protector de pantalla	*|salva	2752
+*|cambiar sonidos del sistema	*|configuracion de sonido	4033
+*|cambiar sonidos del sistema	*|configuracion sonido	5764
+*|camera privacy settings	*|camara	1524
+*|change advanced startup options	*|bios	1
+*|change brightness level	*|display	3901
+*|change brightness level	*|screen	4215
+*|change the date and time	*|clock	3544
+*|change the date and time	*|hora	2238
+*|change the resolution of the display	*|screen	2138
+*|change user account control settings	*|uac	1
+*|change what closing the lid does	*|close	2553
+*|change your password	*|change pass	2387
+*|check for updates	*|windows update	5787
+*|choose your desktop background	*|wall	693
+*|compartir entre dispositivos	*|nearby	1717
+*|comprobar el estado de seguridad	*|antivirus	1030
+*|comprobar estado del firewall	*|cortafuegos	1732
+*|conectarse a una pantalla inalámbrica	*|proyectar	3613
+*|conectarse a una proyección inalámbrica	*|cast	4145
+*|conectarse a una proyección inalámbrica	*|proyectar	2614
+*|conectarse a una proyección inalámbrica	*|transmitir	3420
+*|configuración de activación	*|activar windows	2495
+*|configuración de activación	*|licencia	879
+*|configuración de activación	*|windows ac	2462
+*|configuración de almacenamiento	*|disco duro	3726
+*|configuración de almacenamiento	*|espacio	5192
+*|configuración de audio	*|sonido	677
+*|configuración de audio de accesibilidad	*|lenguaje	594
+*|configuración de bluetooth	*|blo	4835
+*|configuración de bluetooth	*|blut	4779
+*|configuración de bluetooth y otros dispositivos	*|bloo	4952
+*|configuración de bluetooth y otros dispositivos	*|blut	4290
+*|configuración de bluetooth y otros dispositivos	*|devices	8976
+*|configuración de bluetooth y otros dispositivos	*|proyector	7107
+*|configuración de capturas	*|capturas de pantalla	1728
+*|configuración de capturas	*|screenshot	2944
+*|configuración de cifrado de dispositivo	*|bitlocker	1208
+*|configuración de cifrado del dispositivo	*|bitlocker	1067
+*|configuración de color	*|modo oscuro	1784
+*|configuración de copia de seguridad	*|backup	2815
+*|configuración de copia de seguridad	*|copias	2898
+*|configuración de distribución de windows update	*|cache	1
+*|configuración de elementos gráficos	*|gpu	167
+*|configuración de energía y suspensión	*|configuracion de energia	4726
+*|configuración de energía y suspensión	*|energia	2523
+*|configuración de energía y suspensión	*|hibernar	4514
+*|configuración de energía y suspensión	*|opciones de energia	3440
+*|configuración de energía y suspensión	*|power op	5585
+*|configuración de energía y suspensión	*|sleep	4902
+*|configuración de energía y suspensión	*|suspension	4497
+*|configuración de escritura	*|keyboard	2305
+*|configuración de escritura	*|teclados	2320
+*|configuración de ethernet	*|ip	1833
+*|configuración de ethernet	*|lan	3954
+*|configuración de fecha y hora	*|date	4439
+*|configuración de fecha y hora	*|time	4309
+*|configuración de fuentes	*|fonts	2480
+*|configuración de fuentes	*|tipo	5125
+*|configuración de gráficos	*|gpu	468
+*|configuración de gráficos	*|graficos	2630
+*|configuración de gráficos	*|grap	2153
+*|configuración de idioma	*|configuracion regional	3220
+*|configuración de imagen de fondo	*|fondo de	1228
+*|configuración de inicio	*|menu	2184
+*|configuración de la accesibilidad del brillo	*|brillo de pantalla	3983
+*|configuración de la imagen de fondo	*|fondo de	1493
+*|configuración de micrófono	*|microfono	1089
+*|configuración de micrófono	*|microphone	5718
+*|configuración de mouse	*|mose	5464
+*|configuración de mouse	*|tactil	5768
+*|configuración de mouse	*|touchpad	5840
+*|configuración de panel táctil	*|touch pad	4187
+*|configuración de panel táctil	*|touchpad	2895
+*|configuración de panel táctil	*|trackpad	4478
+*|configuración de pantalla	*|monitor	5128
+*|configuración de pantalla	*|pantallas	4773
+*|configuración de pantalla de bloqueo	*|bloquear	4127
+*|configuración de pantalla de bloqueo	*|bloqueo de pantalla	4723
+*|configuración de privacidad	*|permisos	1764
+*|configuración de privacidad de cámara	*|camara	117
+*|configuración de privacidad de cámara	*|webcam	3435
+*|configuración de privacidad de descargas automáticas de archivos	*|onedrive	3225
+*|configuración de privacidad de la biblioteca de documentos	*|mis documentos	2273
+*|configuración de privacidad de las descargas automáticas de archivos	*|onedrive	1
+*|configuración de privacidad de micrófono	*|microfono	1621
+*|configuración de privacidad de micrófono	*|permisos	5098
+*|configuración de privacidad de ubicación	*|gps	2778
+*|configuración de privacidad de ubicación	*|ubicacion	1703
+*|configuración de proxy	*|proxi	4377
+*|configuración de proyección	*|conectar	3699
+*|configuración de proyección	*|connect	4560
+*|configuración de proyección	*|miracast	3200
+*|configuración de proyección	*|proyectar	1921
+*|configuración de seguridad de windows	*|antivirus	2260
+*|configuración de seguridad de windows	*|defender	2356
+*|configuración de seguridad de windows	*|windows defender	1498
+*|configuración de sonido	*|altavoces	5053
+*|configuración de sonido	*|altavoz	5673
+*|configuración de sonido	*|audio	1762
+*|configuración de sonido	*|mez	5494
+*|configuración de sonido	*|sound	4162
+*|configuración de sonido	*|speaker	6718
+*|configuración de sonido	*|troubleshoot	6884
+*|configuración de tema claro	*|color	767
+*|configuración de vpn	*|redes	6605
+*|configuración de wi-fi	*|internet	5108
+*|configuración de wi-fi	*|redes	5466
+*|configuración de wi-fi	*|wifi	1194
+*|configuración de wi-fi	*|wire	7694
+*|configuración de windows defender	*|virus	3914
+*|configuración de windows hd color	*|hdr	1
+*|configuración de windows update	*|actualizaciones	6430
+*|configuración de windows update	*|actualizar	6582
+*|configuración de windows update	*|up date	6993
+*|configuración de windows update	*|updates	6468
+*|configuración de windows update	*|updte	7466
+*|configuración de windows update	*|upgrade	7139
+*|configuración de windows update	*|windos update	8088
+*|configuración de windows update	*|window update	8069
+*|configuración de windows update	*|windows ud	7767
+*|configuración de windows update	*|windows uo	7771
+*|configuración de windows update	*|windws	7569
+*|configuración del brillo de accesibilidad	*|ajustar brillo	5180
+*|configuración del brillo de accesibilidad	*|brillo de pantalla	4524
+*|configuración del brillo de accesibilidad	*|cambiar brillo	5443
+*|configuración del modo juego	*|game	3759
+*|configuración del modo juego	*|juegos	4586
+*|configuración del portapapeles	*|clipboard	4091
+*|configuración del proxy	*|proxi	3737
+*|configuración del ratón	*|mouse	894
+*|configuración del sonido	*|altavoces	4665
+*|configuración del sonido	*|audio	1504
+*|configuración del sonido	*|sound	4624
+*|configurar dispositivos de juego usb	*|controller	3710
+*|configurar dispositivos de juego usb	*|joy	1616
+*|configurar dispositivos de juego usb	*|mando	1984
+*|configurar inicio de sesión con pin	*|cambiar pin	2247
+*|configurar inicio de sesión mediante huella digital	*|huellas	3330
+*|connect to a wireless display	*|cast	1043
+*|control de aplicaciones y navegador	*|smartscreen	1102
+*|corregir problemas con el equipo	*|reparar	1418
+*|crear un punto de restauración	*|crear punto de restauracion	6106
+*|crear un punto de restauración	*|proteccion del sistema	6663
+*|crear un punto de restauración	*|punto de restauracion	4810
+*|crear un punto de restauración	*|puntos	5557
+*|crear un punto de restauración	*|restauracion	4156
+*|crear un punto de restauración	*|restaurar sistema	4506
+*|crear un punto de restauración	*|restore	5844
+*|crear y formatear particiones del disco duro	*|administracion de discos	4707
+*|crear y formatear particiones del disco duro	*|administración de discos	6400
+*|crear y formatear particiones del disco duro	*|administrador de discos	3235
+*|crear y formatear particiones del disco duro	*|administrar discos	7337
+*|crear y formatear particiones del disco duro	*|discos duros	7355
+*|crear y formatear particiones del disco duro	*|disk management	7170
+*|crear y formatear particiones del disco duro	*|disk manager	7077
+*|crear y formatear particiones del disco duro	*|gestion	7161
+*|crear y formatear particiones del disco duro	*|partition	7058
+*|create and format hard disk partitions	*|disk management	4309
+*|create and format hard disk partitions	*|disk manager	4470
+*|delete temporary files	*|trash	1320
+*|desactivar ubicación	*|ubicacion	864
+*|detectar pantallas antiguas	*|vga	2583
+*|detectar redes wi-fi	*|wifi	761
+*|device manager	*|administrador de dispositivos	5989
+*|device manager	*|dei	6979
+*|device manager	*|devices	5042
+*|device manager	*|devide	6491
+*|device manager	*|devie	6720
+*|device manager	*|dive	6330
+*|device manager	*|divice	6797
+*|device manager	*|drivers	5332
+*|device manager	*|hardware	6767
+*|device manager	*|usb	6622
+*|dictado de accesibilidad	*|dictar	1998
+*|digitalizar un documento o una imagen	*|escanear	3799
+*|digitalizar un documento o una imagen	*|scan	2487
+*|display settings	*|pantalla	2285
+*|duplicar o ampliar a un dispositivo conectado	*|monitor	3724
+*|duplicar o ampliar a un dispositivo conectado	*|proyecc	4969
+*|duplicar o ampliar a un dispositivo conectado	*|proyectar	2401
+*|duplicar o extender el contenido a una pantalla conectada	*|display	5971
+*|duplicar o extender el contenido a una pantalla conectada	*|duplicar pantalla	4753
+*|duplicar o extender el contenido a una pantalla conectada	*|mirror	6515
+*|duplicar o extender el contenido a una pantalla conectada	*|monitor	4653
+*|duplicar o extender el contenido a una pantalla conectada	*|proyecc	6473
+*|duplicar o extender el contenido a una pantalla conectada	*|proyectar	3450
+*|duplicate or extend to a connected display	*|monitor	2899
+*|edit group policy	*|gpedit	769
+*|edit language and keyboard options	*|languaje	3712
+*|edit language and keyboard options	*|lenguage	3804
+*|edit power plan	*|ener	1117
+*|edit power plan	*|power op	3644
+*|edit the system environment variables	*|path	2724
+*|editar directiva de grupo	*|directivas	5338
+*|editar directiva de grupo	*|editor de dire	4835
+*|editar directiva de grupo	*|gpedit.msc	4396
+*|editar directiva de grupo	*|group	4858
+*|editar las variables de entorno de esta cuenta	*|environ	2612
+*|editar las variables de entorno del sistema	*|envi	4261
+*|editar las variables de entorno del sistema	*|path	3443
+*|editar opciones de idioma y teclado	*|idioma de teclado	5241
+*|editar opciones de idioma y teclado	*|idioma del teclado	5055
+*|editar opciones de idioma y teclado	*|idioma teclado	4449
+*|editar opciones de idioma y teclado	*|idiomas	3715
+*|editar opciones de idioma y teclado	*|language	4908
+*|editar opciones de idioma y teclado	*|teclado idioma	5388
+*|editar plan de energía	*|energia	2023
+*|editar usuarios y grupos locales	*|user	3046
+*|ejecutar programas creados para versiones anteriores de windows	*|compatibilidad	693
+*|elegir cuándo desactivar la pantalla	*|apagar	455
+*|elegir el color de énfasis	*|colores	1042
+*|elegir el dispositivo de salida de sonido	*|audio	778
+*|elegir el fondo de escritorio	*|cambiar fondo de pantalla	6200
+*|elegir el fondo de escritorio	*|fondo de pantalla	3471
+*|elegir el fondo de escritorio	*|fondo pantalla	6195
+*|elegir el fondo de escritorio	*|fondos de pantalla	6162
+*|elegir el fondo de escritorio	*|fonf	5192
+*|elegir el fondo de escritorio	*|wallpaper	6217
+*|elegir las aplicaciones que pueden acceder al micrófono	*|permisos	1
+*|elegir un explorador web predeterminado	*|buscador	2866
+*|elegir un explorador web predeterminado	*|navegador predeterminado	3748
+*|elegir un plan de energía	*|ahorro de	4170
+*|elegir un plan de energía	*|energia	3058
+*|elegir una aplicación predeterminada para cada tipo de archivo	*|archivos de programa	1363
+*|elige tu color de énfasis	*|colores	654
+*|elige tu color de énfasis	*|modo oscuro	1849
+*|eliminar archivos temporales	*|liberar espacio	3727
+*|eliminar archivos temporales	*|limpiar	3099
+*|eliminar archivos temporales	*|limpieza	3837
+*|eliminar archivos temporales	*|storage	4716
+*|eliminar archivos temporales	*|trash	5216
+*|eliminar cookies o archivos temporales	*|borrar	3921
+*|especificaciones del dispositivo	*|modelo	543
+*|establecer la hora automáticamente	*|reloj	235
+*|estado de la red	*|adaptador de red	3991
+*|estado de la red	*|network	3191
+*|estado de red	*|adap	3422
+*|excluir carpetas de la indexación	*|excel	1
+*|file explorer options	*|folder	1
+*|find and fix problems with recording sound	*|microfono	1
+*|firewall de windows defender	*|desactivar	6556
+*|firewall de windows defender	*|fiew	6958
+*|firewall de windows defender	*|firea	6575
+*|firewall de windows defender	*|firel	6901
+*|firewall de windows defender	*|firewaa	7631
+*|firewall de windows defender	*|firre	7621
+*|firewall de windows defender	*|firw	6170
+*|firewall de windows defender	*|windows fire	7112
+*|firewall y protección de red	*|desactivar	2874
+*|firewall y protección de red	*|microsoft defender	2809
+*|font settings	*|fonts	1143
+*|fuentes	*|fonts	3562
+*|game mode settings	*|gaming	1953
+*|graphics settings	*|gpu	1607
+*|habilitar xbox game bar	*|grabar	1
+*|hacer que el dispositivo no tenga contraseña	*|hue	1
+*|identificar y reparar problemas de red	*|wifi	1099
+*|impresoras y escáneres	*|agregar impresora	8278
+*|impresoras y escáneres	*|digitalizar	8827
+*|impresoras y escáneres	*|escanear	7082
+*|impresoras y escáneres	*|escaner	4949
+*|impresoras y escáneres	*|imopre	7590
+*|impresoras y escáneres	*|imores	7343
+*|impresoras y escáneres	*|impores	9451
+*|impresoras y escáneres	*|impreos	9398
+*|impresoras y escáneres	*|impresi	6946
+*|impresoras y escáneres	*|imprimir	6960
+*|impresoras y escáneres	*|imprsoras	8421
+*|impresoras y escáneres	*|imres	8557
+*|impresoras y escáneres	*|inpresora	8932
+*|impresoras y escáneres	*|instalar impresora	9471
+*|impresoras y escáneres	*|ompre	8978
+*|impresoras y escáneres	*|printers	7213
+*|impresoras y escáneres	*|scanner	6419
+*|información de tu cuenta	*|cuentas	1880
+*|información de tu cuenta	*|perfil	364
+*|instalación del micrófono	*|microfono	957
+*|internet options	*|opciones	4318
+*|luz nocturna	*|night	4130
+*|luz nocturna	*|noche	4299
+*|modo avión	*|bluetooth	3059
+*|modo avión	*|wifi	265
+*|mostrar elementos abiertos recientemente en las listas de accesos directos y en el explorador de archivos	*|recientes	380
+*|mostrar imágenes de fondo de windows	*|fondos	1
+*|mostrar las imágenes de fondo de windows	*|fondo de pantalla	462
+*|mostrar las imágenes de fondo de windows	*|fondos	994
+*|obtener acceso a trabajo o escuela	*|dominio	1
+*|opciones de energía	*|energia	727
+*|opciones de familia	*|control parental	1480
+*|opciones de indización	*|index	2043
+*|opciones de inicio de sesión	*|contraseña	2551
+*|opciones de inicio de sesión	*|finger	3305
+*|opciones de inicio de sesión	*|huella	2542
+*|opciones de inicio de sesión	*|pin	1673
+*|opciones de inicio de sesión	*|sesion	3476
+*|opciones de inicio de sesión	*|windows hello	2423
+*|opciones de internet	*|internet op	5953
+*|opciones de internet	*|propiedades de internet	6084
+*|opciones de recuperación	*|recovery	2656
+*|opciones de recuperación	*|recuperacion	2260
+*|opciones de recuperación	*|recuperar	2035
+*|opciones del explorador de archivos	*|carpetas	4064
+*|opciones del explorador de archivos	*|folder	3585
+*|opciones del explorador de archivos	*|opciones de carpeta	2026
+*|opciones del mezclador de sonido	*|ecualizador	3656
+*|opciones del mezclador de sonido	*|salida de	4982
+*|opciones del mezclador de sonido	*|sonidos	4648
+*|opciones del mezclador de sonido	*|volumen	4127
+*|otros usuarios	*|users	3127
+*|pausar actualizaciones	*|windows u	1277
+*|power & sleep settings	*|energy	2645
+*|power & sleep settings	*|power op	3749
+*|printers & scanners	*|devices	6017
+*|printers & scanners	*|impre	2737
+*|printers & scanners	*|prit	6518
+*|procesador de seguridad	*|tpm	717
+*|programar el reinicio	*|reiniciar	976
+*|programar reinicio	*|reiniciar	1393
+*|protección antivirus y contra amenazas	*|defender	3327
+*|protección antivirus y contra amenazas	*|windows defender	4389
+*|protección basada en reputación	*|smart screen	1061
+*|protección basada en reputación	*|smartscreen	714
+*|protección contra virus y amenazas	*|antimalware	6862
+*|protección contra virus y amenazas	*|antivirus	2268
+*|protección contra virus y amenazas	*|defender	3299
+*|protección contra virus y amenazas	*|exclusiones	6963
+*|protección contra virus y amenazas	*|software	6942
+*|protección contra virus y amenazas	*|windows defender	4819
+*|protección de cuentas	*|ajustes	579
+*|proxy settings	*|proxi	4563
+*|proyectar en una segunda pantalla	*|hdm	3477
+*|proyectar en una segunda pantalla	*|proyector	2922
+*|recovery	*|restore	1058
+*|recuperación	*|recovery	3998
+*|recuperación	*|recuperacion	2817
+*|recuperación	*|restaurar sistema	4421
+*|región	*|region	1064
+*|rendimiento y estado del dispositivo	*|health	1072
+*|rendimiento y estado del dispositivo	*|limpiar	419
+*|reorganizar varias pantallas	*|monitor	3504
+*|reproducción de vídeo	*|video	1
+*|reproducir un cd u otros medios automáticamente	*|dvd	1439
+*|reset this pc	*|restore	3096
+*|restablecer este equipo	*|actualizaciones	5237
+*|restablecer este equipo	*|fabrica	4941
+*|restablecer este equipo	*|recovery	4709
+*|restablecer este equipo	*|recuperacion	6264
+*|restablecer este equipo	*|recuperar	6397
+*|restablecer este equipo	*|reestablecer	6295
+*|restablecer este equipo	*|rein	4614
+*|restablecer este equipo	*|resetear	6047
+*|restablecer este equipo	*|restauracion	5783
+*|restablecer este equipo	*|restaurar sistema	6391
+*|restablecer este equipo	*|restore	5571
+*|restablecer este pc	*|reset	3738
+*|restablecer este pc	*|restaurar	3069
+*|salir del modo s	*|swi	671
+*|seguridad del dispositivo	*|tpm	1113
+*|seguridad y mantenimiento	*|centro de actividades	1637
+*|set up usb game controllers	*|joy	1204
+*|sign-in options	*|hello	698
+*|sincronizar la fecha y la hora con un servidor horario	*|re	2204
+*|sistema	*|hardware	7863
+*|sistema	*|informacion del equipo	8020
+*|sistema	*|propiedades del equipo	7884
+*|sistema	*|sise	6871
+*|sistema	*|sisr	7586
+*|sistema	*|sistemas	5307
+*|sistema	*|system	5504
+*|solucionar otros problemas	*|solucionador de problemas	3049
+*|solucionar problemas de configuración	*|solucionador	3040
+*|solucionar problemas de configuración	*|trouble	3834
+*|solución de problemas recomendada disponible	*|solucionador de problemas	3102
+*|sonido	*|audio	2307
+*|sound mixer options	*|audio	3189
+*|sound mixer options	*|volume	2349
+*|sound settings	*|audio	2210
+*|sound settings	*|sounds	4323
+*|sound settings	*|speakers	4487
+*|system	*|sistema	2094
+*|temas y configuración relacionada	*|iconos	2085
+*|temas y configuración relacionada	*|perso	3791
+*|temas y configuración relacionada	*|theme	3793
+*|touchpad settings	*|track	2778
+*|turn windows features on or off	*|hyper	2279
+*|turn wireless devices on or off	*|wifi	693
+*|typing settings	*|keyboard	1387
+*|usa la tecla impr pant para iniciar recortes de pantalla	*|captura de pantalla	645
+*|uso compartido entre dispositivos	*|nearby	1
+*|utilizar la tecla impr pant para iniciar el recorte de pantalla	*|captura de pantalla	498
+*|ver conexiones de red	*|network	6151
+*|ver el id. del producto	*|numero de serie	945
+*|ver el nombre del equipo	*|cambiar nombre	3464
+*|ver el nombre del equipo	*|name	3463
+*|ver el nombre del equipo	*|nombre de equipo	4426
+*|ver información de ram	*|memoria ram	2799
+*|ver información táctil y del lápiz	*|tactil	1319
+*|ver información táctil y del lápiz	*|touch	2264
+*|ver la configuración avanzada del sistema	*|advanced	4390
+*|ver la configuración avanzada del sistema	*|avanzado	5133
+*|ver la configuración avanzada del sistema	*|configuracion avanzada del sistema	4255
+*|ver los equipos y dispositivos de red	*|centro de redes y recursos compartidos	693
+*|ver si tienes una versión de 32 o 64 bits de windows	*|version	1038
+*|ver si windows está activado	*|activacion	2081
+*|ver si windows está activado	*|activar windows	3085
+*|ver uso de recursos del sistema en el administrador de tareas	*|cpu	1918
+*|ver uso de recursos del sistema en el administrador de tareas	*|ram	1625
+*|ver uso de recursos del sistema en el administrador de tareas	*|task manager	3133
+*|view system resource usage in task manager	*|cpu	730
+*|view system resource usage in task manager	*|ram	658
+*|view your pc name	*|computer name	1977
+*|view your pc name	*|my pc	2365
+*|view your product id	*|serial	1
+*|vincular el teléfono	*|phone	1508
+*|vincular tu teléfono	*|android	2894
+*|vincular tu teléfono	*|iphone	2475
+*|vincular tu teléfono	*|phone	2013
+*|vincular tu teléfono	*|samsung	2952
+*|virus & threat protection	*|antivirus	2599
+*|virus & threat protection	*|defender	3627
+*|wi-fi settings	*|wi fi	4338
+*|wi-fi settings	*|wifi	478
+*|wi-fi settings	*|wire	5054
+*|windows update settings	*|updates	4309
+*|zona con cobertura inalámbrica móvil	*|compartir	3724
+*|zona con cobertura inalámbrica móvil	*|hots	4374
+*|zona cubierta móvil	*|compartir	3980
+*|zona cubierta móvil	*|hotspot	4633
+*|zona cubierta móvil	*|in	5547
+*|zona cubierta móvil	*|share	4954

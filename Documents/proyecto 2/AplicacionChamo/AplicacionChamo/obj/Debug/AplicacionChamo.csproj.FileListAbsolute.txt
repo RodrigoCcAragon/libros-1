@@ -1,0 +1,10 @@
+C:\Users\PC-03\Documents\proyecto 2\AplicacionChamo\AplicacionChamo\bin\Debug\AplicacionChamo.exe.config
+C:\Users\PC-03\Documents\proyecto 2\AplicacionChamo\AplicacionChamo\bin\Debug\AplicacionChamo.exe
+C:\Users\PC-03\Documents\proyecto 2\AplicacionChamo\AplicacionChamo\bin\Debug\AplicacionChamo.pdb
+C:\Users\PC-03\Documents\proyecto 2\AplicacionChamo\AplicacionChamo\obj\Debug\AplicacionChamo.csproj.AssemblyReference.cache
+C:\Users\PC-03\Documents\proyecto 2\AplicacionChamo\AplicacionChamo\obj\Debug\AplicacionChamo.Form1.resources
+C:\Users\PC-03\Documents\proyecto 2\AplicacionChamo\AplicacionChamo\obj\Debug\AplicacionChamo.Properties.Resources.resources
+C:\Users\PC-03\Documents\proyecto 2\AplicacionChamo\AplicacionChamo\obj\Debug\AplicacionChamo.csproj.GenerateResource.cache
+C:\Users\PC-03\Documents\proyecto 2\AplicacionChamo\AplicacionChamo\obj\Debug\AplicacionChamo.csproj.CoreCompileInputs.cache
+C:\Users\PC-03\Documents\proyecto 2\AplicacionChamo\AplicacionChamo\obj\Debug\AplicacionChamo.exe
+C:\Users\PC-03\Documents\proyecto 2\AplicacionChamo\AplicacionChamo\obj\Debug\AplicacionChamo.pdb

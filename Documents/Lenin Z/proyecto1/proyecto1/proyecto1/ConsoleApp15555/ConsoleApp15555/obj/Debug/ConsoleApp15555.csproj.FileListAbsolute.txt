@@ -1,0 +1,7 @@
+C:\Users\PC-03\Documents\Lenin Z\proyecto1\proyecto1\proyecto1\ConsoleApp15555\ConsoleApp15555\bin\Debug\ConsoleApp15555.exe.config
+C:\Users\PC-03\Documents\Lenin Z\proyecto1\proyecto1\proyecto1\ConsoleApp15555\ConsoleApp15555\bin\Debug\ConsoleApp15555.exe
+C:\Users\PC-03\Documents\Lenin Z\proyecto1\proyecto1\proyecto1\ConsoleApp15555\ConsoleApp15555\bin\Debug\ConsoleApp15555.pdb
+C:\Users\PC-03\Documents\Lenin Z\proyecto1\proyecto1\proyecto1\ConsoleApp15555\ConsoleApp15555\obj\Debug\ConsoleApp15555.csproj.AssemblyReference.cache
+C:\Users\PC-03\Documents\Lenin Z\proyecto1\proyecto1\proyecto1\ConsoleApp15555\ConsoleApp15555\obj\Debug\ConsoleApp15555.csproj.CoreCompileInputs.cache
+C:\Users\PC-03\Documents\Lenin Z\proyecto1\proyecto1\proyecto1\ConsoleApp15555\ConsoleApp15555\obj\Debug\ConsoleApp15555.exe
+C:\Users\PC-03\Documents\Lenin Z\proyecto1\proyecto1\proyecto1\ConsoleApp15555\ConsoleApp15555\obj\Debug\ConsoleApp15555.pdb

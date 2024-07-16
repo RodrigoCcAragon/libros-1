@@ -1,0 +1,14 @@
+C:\Users\PC-03\Documents\Lenin Z\proyecto1\proyecto1\proyecto1\VALENTINO HOJA DE OPERACION 04\VALENTINO HOJA DE OPERACION 04\bin\Debug\net6.0\VALENTINO HOJA DE OPERACION 04.exe
+C:\Users\PC-03\Documents\Lenin Z\proyecto1\proyecto1\proyecto1\VALENTINO HOJA DE OPERACION 04\VALENTINO HOJA DE OPERACION 04\bin\Debug\net6.0\VALENTINO HOJA DE OPERACION 04.deps.json
+C:\Users\PC-03\Documents\Lenin Z\proyecto1\proyecto1\proyecto1\VALENTINO HOJA DE OPERACION 04\VALENTINO HOJA DE OPERACION 04\bin\Debug\net6.0\VALENTINO HOJA DE OPERACION 04.runtimeconfig.json
+C:\Users\PC-03\Documents\Lenin Z\proyecto1\proyecto1\proyecto1\VALENTINO HOJA DE OPERACION 04\VALENTINO HOJA DE OPERACION 04\bin\Debug\net6.0\VALENTINO HOJA DE OPERACION 04.dll
+C:\Users\PC-03\Documents\Lenin Z\proyecto1\proyecto1\proyecto1\VALENTINO HOJA DE OPERACION 04\VALENTINO HOJA DE OPERACION 04\bin\Debug\net6.0\VALENTINO HOJA DE OPERACION 04.pdb
+C:\Users\PC-03\Documents\Lenin Z\proyecto1\proyecto1\proyecto1\VALENTINO HOJA DE OPERACION 04\VALENTINO HOJA DE OPERACION 04\obj\Debug\net6.0\VALENTINO HOJA DE OPERACION 04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-03\Documents\Lenin Z\proyecto1\proyecto1\proyecto1\VALENTINO HOJA DE OPERACION 04\VALENTINO HOJA DE OPERACION 04\obj\Debug\net6.0\VALENTINO HOJA DE OPERACION 04.AssemblyInfoInputs.cache
+C:\Users\PC-03\Documents\Lenin Z\proyecto1\proyecto1\proyecto1\VALENTINO HOJA DE OPERACION 04\VALENTINO HOJA DE OPERACION 04\obj\Debug\net6.0\VALENTINO HOJA DE OPERACION 04.AssemblyInfo.cs
+C:\Users\PC-03\Documents\Lenin Z\proyecto1\proyecto1\proyecto1\VALENTINO HOJA DE OPERACION 04\VALENTINO HOJA DE OPERACION 04\obj\Debug\net6.0\VALENTINO HOJA DE OPERACION 04.csproj.CoreCompileInputs.cache
+C:\Users\PC-03\Documents\Lenin Z\proyecto1\proyecto1\proyecto1\VALENTINO HOJA DE OPERACION 04\VALENTINO HOJA DE OPERACION 04\obj\Debug\net6.0\VALENTINO HOJA DE OPERACION 04.dll
+C:\Users\PC-03\Documents\Lenin Z\proyecto1\proyecto1\proyecto1\VALENTINO HOJA DE OPERACION 04\VALENTINO HOJA DE OPERACION 04\obj\Debug\net6.0\refint\VALENTINO HOJA DE OPERACION 04.dll
+C:\Users\PC-03\Documents\Lenin Z\proyecto1\proyecto1\proyecto1\VALENTINO HOJA DE OPERACION 04\VALENTINO HOJA DE OPERACION 04\obj\Debug\net6.0\VALENTINO HOJA DE OPERACION 04.pdb
+C:\Users\PC-03\Documents\Lenin Z\proyecto1\proyecto1\proyecto1\VALENTINO HOJA DE OPERACION 04\VALENTINO HOJA DE OPERACION 04\obj\Debug\net6.0\VALENTINO HOJA DE OPERACION 04.genruntimeconfig.cache
+C:\Users\PC-03\Documents\Lenin Z\proyecto1\proyecto1\proyecto1\VALENTINO HOJA DE OPERACION 04\VALENTINO HOJA DE OPERACION 04\obj\Debug\net6.0\ref\VALENTINO HOJA DE OPERACION 04.dll

@@ -1,0 +1,181 @@
+Number of Launches: 19
+stdout:
+# Photoshop Version: 20200115.r.91 2020/01/15: 21f283574f6
+Tester="Photoshop"
+snifferStart="2024-06-19_11:48:20"
+AIFCoreInitialized=1
+# 00000_2024/06/19_11:48:19.803(+00.000)[3df4] BEGIN DoRunAIFOGLInitialize
+AIFOGLInitialized=1
+# 00001_2024/06/19_11:48:19.803(+00.000)[3df4] END DoRunAIFOGLInitialize, duration=6.09999e-06
+# 00002_2024/06/19_11:48:19.803(+00.000)[3df4] BEGIN DoRunAnyGLGPU
+OGLContextCreated=1
+# 00003_2024/06/19_11:48:19.893(+00.090)[3df4] END DoRunAnyGLGPU, duration=0.0895994
+# 00004_2024/06/19_11:48:19.893(+00.000)[3df4] BEGIN DoRunEnumerateGLGPUs
+# 00005_2024/06/19_11:48:19.921(+00.028)[3df4]  wmiNumDevices=1
+# 00006_2024/06/19_11:48:19.921(+00.000)[3df4]  adapter[0]{ VendorID=32902 DeviceId=22807 SubSysId=136056872 Revision=7 DedicatedVideoMemory=134217728 DedicatedSystemMemory=0 SharedSystemMemory=8526147584 Description=Intel(R) UHD Graphics 620}
+# 00007_2024/06/19_11:48:19.921(+00.000)[3df4]  output[0]{ DesktopCoordinates={ L=0 T=0 R=1280 B=720 W=1280 H=720 } AttachedToDesktop=1 Rotation=1 Monitor=0000000000010001 DeviceName=\\\\.\\DISPLAY5
+# 00008_2024/06/19_11:48:19.921(+00.000)[3df4]  adapter[0] displays: 1
+# 00009_2024/06/19_11:48:19.921(+00.000)[3df4]  adapter[1]{ VendorID=5140 DeviceId=140 SubSysId=0 Revision=0 DedicatedVideoMemory=0 DedicatedSystemMemory=0 SharedSystemMemory=8526147584 Description=Microsoft Basic Render Driver}
+# 00010_2024/06/19_11:48:19.921(+00.000)[3df4]  dxgiNumDevices=1
+# 00011_2024/06/19_11:48:19.921(+00.000)[3df4]  aifNumDevices=1
+# 00012_2024/06/19_11:48:19.921(+00.000)[3df4]  aifDeviceIndex=0
+# 00013_2024/06/19_11:48:19.922(+00.000)[3df4]  creating ContextOffscreen for { DeviceName=\\\\.\\DISPLAY5 DeviceString=Intel(R) UHD Graphics 620 DisplayID=22807}
+# 00014_2024/06/19_11:48:19.931(+00.009)[3df4]  aifDevice[0]={ DeviceName=\\\\.\\DISPLAY5 DeviceString=Intel(R) UHD Graphics 620 DisplayID=22807}
+# 00015_2024/06/19_11:48:19.931(+00.000)[3df4]  aifNumContexts=1
+NumGLGPUs=1
+# 00016_2024/06/19_11:48:19.931(+00.000)[3df4] END DoRunEnumerateGLGPUs, duration=0.03859
+glgpu[0].GLVersion="4.1"
+# 00017_2024/06/19_11:48:19.931(+00.000)[3df4] fAdapterDesc.VendorId=32902
+# 00018_2024/06/19_11:48:19.931(+00.000)[3df4] minDedicatedMBforDiscreteGPU=128
+# 00019_2024/06/19_11:48:19.931(+00.000)[3df4] dedicatedMB=128
+# 00020_2024/06/19_11:48:19.931(+00.000)[3df4] Looks like a discrete GPU
+glgpu[0].IsIntegratedGLGPU=0
+# 00021_2024/06/19_11:48:19.931(+00.000)[3df4] fAdapterDesc.VendorId=32902
+# 00022_2024/06/19_11:48:19.931(+00.000)[3df4] minDedicatedMBforDiscreteGPU=128
+# 00023_2024/06/19_11:48:19.931(+00.000)[3df4] dedicatedMB=128
+# 00024_2024/06/19_11:48:19.931(+00.000)[3df4] Looks like a discrete GPU
+# 00025_2024/06/19_11:48:19.931(+00.000)[3df4] DXGI RAM=134217728=128MB
+# 00026_2024/06/19_11:48:19.932(+00.000)[3df4] wmiVRAM=1024 dxgiVRAM=128
+glgpu[0].GLMemoryMB=1024
+glgpu[0].GLName="Intel(R) UHD Graphics 620"
+glgpu[0].GLVendor="Intel"
+glgpu[0].GLVendorID=32902
+glgpu[0].GLDriverVersion="31.0.101.2115"
+glgpu[0].GLRectTextureSize=16384
+glgpu[0].GLRenderer="Intel(R) UHD Graphics 620"
+glgpu[0].GLRendererID=22807
+glgpu[0].HasGLNPOTSupport=1
+glgpu[0].GLDriver="C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_77369ead7ddd9683\igdumdim64.dll,C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_77369ead7ddd9683\igd10iumd64.dll,C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_77369ead7ddd9683\igd10iumd64.dll,C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_77369ead7ddd9683\igd12umd64.dll"
+glgpu[0].GLDriverDate="20221116000000.000000-000"
+glgpu[0].CanCompileProgramGLSL=1
+glgpu[0].GLFrameBufferOK=1
+gputag.GL_SHADING_LANGUAGE_VERSION=35724
+glgpu[0].glGetString[GL_SHADING_LANGUAGE_VERSION]="1.30 - Build 31.0.101.2115"
+gputag.GL_FRAGMENT_PROGRAM_ARB=34820
+gputag.GL_MAX_PROGRAM_INSTRUCTIONS_ARB=34977
+glgpu[0].glGetProgramivARB[GL_FRAGMENT_PROGRAM_ARB][GL_MAX_PROGRAM_INSTRUCTIONS_ARB]=[1447]
+gputag.GL_MAX_TEXTURE_UNITS=34018
+glgpu[0].glGetIntegerv[GL_MAX_TEXTURE_UNITS]=[8]
+gputag.GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS=35661
+glgpu[0].glGetIntegerv[GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS]=[192]
+gputag.GL_MAX_VERTEX_TEXTURE_IMAGE_UNITS=35660
+glgpu[0].glGetIntegerv[GL_MAX_VERTEX_TEXTURE_IMAGE_UNITS]=[32]
+gputag.GL_MAX_TEXTURE_IMAGE_UNITS=34930
+glgpu[0].glGetIntegerv[GL_MAX_TEXTURE_IMAGE_UNITS]=[32]
+gputag.GL_MAX_DRAW_BUFFERS=34852
+glgpu[0].glGetIntegerv[GL_MAX_DRAW_BUFFERS]=[8]
+gputag.GL_MAX_VERTEX_UNIFORM_COMPONENTS=35658
+glgpu[0].glGetIntegerv[GL_MAX_VERTEX_UNIFORM_COMPONENTS]=[4096]
+gputag.GL_MAX_FRAGMENT_UNIFORM_COMPONENTS=35657
+glgpu[0].glGetIntegerv[GL_MAX_FRAGMENT_UNIFORM_COMPONENTS]=[4096]
+gputag.GL_MAX_VARYING_FLOATS=35659
+glgpu[0].glGetIntegerv[GL_MAX_VARYING_FLOATS]=[64]
+gputag.GL_MAX_VERTEX_ATTRIBS=34921
+glgpu[0].glGetIntegerv[GL_MAX_VERTEX_ATTRIBS]=[16]
+gputag.AIF::OGL::GL_ARB_VERTEX_PROGRAM=69
+glgpu[0].extension[AIF::OGL::GL_ARB_VERTEX_PROGRAM]=1
+gputag.AIF::OGL::GL_ARB_FRAGMENT_PROGRAM=27
+glgpu[0].extension[AIF::OGL::GL_ARB_FRAGMENT_PROGRAM]=1
+gputag.AIF::OGL::GL_ARB_VERTEX_SHADER=70
+glgpu[0].extension[AIF::OGL::GL_ARB_VERTEX_SHADER]=1
+gputag.AIF::OGL::GL_ARB_FRAGMENT_SHADER=28
+glgpu[0].extension[AIF::OGL::GL_ARB_FRAGMENT_SHADER]=1
+gputag.AIF::OGL::GL_EXT_FRAMEBUFFER_OBJECT=81
+glgpu[0].extension[AIF::OGL::GL_EXT_FRAMEBUFFER_OBJECT]=1
+gputag.AIF::OGL::GL_ARB_TEXTURE_RECTANGLE=58
+glgpu[0].extension[AIF::OGL::GL_ARB_TEXTURE_RECTANGLE]=1
+gputag.AIF::OGL::GL_ARB_TEXTURE_FLOAT=53
+glgpu[0].extension[AIF::OGL::GL_ARB_TEXTURE_FLOAT]=1
+gputag.AIF::OGL::GL_ARB_OCCLUSION_QUERY=37
+glgpu[0].extension[AIF::OGL::GL_ARB_OCCLUSION_QUERY]=1
+gputag.AIF::OGL::GL_ARB_VERTEX_BUFFER_OBJECT=68
+glgpu[0].extension[AIF::OGL::GL_ARB_VERTEX_BUFFER_OBJECT]=1
+gputag.AIF::OGL::GL_ARB_SHADER_TEXTURE_LOD=47
+glgpu[0].extension[AIF::OGL::GL_ARB_SHADER_TEXTURE_LOD]=0
+# 00027_2024/06/19_11:48:19.957(+00.026)[3df4] BEGIN DoRunAIFOCLInitialize
+# 00028_2024/06/19_11:48:19.971(+00.014)[3df4]  DoRunAIFOCLInitialize: AIF::OCL::Library::initialize();
+# 00029_2024/06/19_11:48:19.973(+00.002)[3df4] END DoRunAIFOCLInitialize, duration=0.0159507
+# 00030_2024/06/19_11:48:19.973(+00.000)[3df4] BEGIN DoRunEnumerateCLGPUs
+NumCLGPUs=1
+# 00031_2024/06/19_11:48:19.973(+00.000)[3df4] END DoRunEnumerateCLGPUs, duration=2.82e-05
+clgpu[0].CLPlatformVersion="3.0 "
+clgpu[0].CLDeviceVersion="3.0 NEO "
+clgpu[0].IsIntegratedCLGPU=1
+clgpu[0].CLMemoryMB=6504
+clgpu[0].CLName="Intel(R) UHD Graphics 620"
+clgpu[0].CLVendor="Intel(R) Corporation"
+clgpu[0].CLVendorID=32902
+clgpu[0].CLDriverVersion="31.0.101.2115"
+clgpu[0].CUDASupported=0
+# 00032_2024/06/19_11:48:19.973(+00.000)[3df4] BEGIN GPUSnifferTester::DoRunCLBandwidth
+# 00033_2024/06/19_11:48:19.973(+00.000)[3df4]  BEGIN GPUImplHardware::DoGetCLBandwidth
+# 00034_2024/06/19_11:48:19.973(+00.000)[3df4]   GPUImplHardware::DoGetCLBandwidth: AIF::OCL::Context context(properties, *iDev);
+# 00035_2024/06/19_11:48:19.973(+00.000)[3df4]   GPUImplHardware::DoGetCLBandwidth: AIF::OCL::CommandQueue cq(context, *iDev, false, true);
+# 00036_2024/06/19_11:48:19.973(+00.000)[3df4]   BEGIN GPUImplHardware::checkBandwidthCL
+# 00037_2024/06/19_11:48:19.973(+00.000)[3df4]    GPUImplHardware::checkBandwidthCL: clCreateBuffer d_idata nbytes=16777216
+# 00038_2024/06/19_11:48:19.974(+00.000)[3df4]    GPUImplHardware::checkBandwidthCL: clCreateBuffer d_odata nbytes=16777216
+# 00039_2024/06/19_11:48:19.974(+00.000)[3df4]    GPUImplHardware::checkBandwidthCL: clFinish
+# 00040_2024/06/19_11:48:19.974(+00.000)[3df4]    GPUImplHardware::checkBandwidthCL: copy 100 iterations
+# 00041_2024/06/19_11:48:19.974(+00.000)[3df4]    GPUImplHardware::checkBandwidthCL: 0 of 100, totalSeconds=0
+# 00042_2024/06/19_11:48:20.005(+00.031)[3df4]    GPUImplHardware::timeBandwidthCL: totalSeconds=0.0237692
+# 00043_2024/06/19_11:48:20.005(+00.000)[3df4]    GPUImplHardware::checkBandwidthCL: seconds=0.0237692
+# 00044_2024/06/19_11:48:20.005(+00.000)[3df4]    GPUImplHardware::checkBandwidthCL: totalSeconds=0.0237692, BW=1.41168e+10, maxBW=1.41168e+10
+# 00045_2024/06/19_11:48:20.005(+00.000)[3df4]    GPUImplHardware::checkBandwidthCL: 10 of 100, totalSeconds=0.0237692
+# 00046_2024/06/19_11:48:20.030(+00.025)[3df4]    GPUImplHardware::timeBandwidthCL: totalSeconds=0.0242594
+# 00047_2024/06/19_11:48:20.030(+00.000)[3df4]    GPUImplHardware::checkBandwidthCL: seconds=0.0242594
+# 00048_2024/06/19_11:48:20.030(+00.000)[3df4]    GPUImplHardware::checkBandwidthCL: totalSeconds=0.0480286, BW=1.38315e+10, maxBW=1.41168e+10
+# 00049_2024/06/19_11:48:20.030(+00.000)[3df4]    GPUImplHardware::checkBandwidthCL: 20 of 100, totalSeconds=0.0480286
+# 00050_2024/06/19_11:48:20.061(+00.030)[3df4]    GPUImplHardware::timeBandwidthCL: totalSeconds=0.0265682
+# 00051_2024/06/19_11:48:20.061(+00.000)[3df4]    GPUImplHardware::checkBandwidthCL: seconds=0.0265682
+# 00052_2024/06/19_11:48:20.061(+00.000)[3df4]    GPUImplHardware::checkBandwidthCL: totalSeconds=0.0745968, BW=1.26295e+10, maxBW=1.41168e+10
+# 00053_2024/06/19_11:48:20.061(+00.000)[3df4]    GPUImplHardware::checkBandwidthCL: 30 of 100, totalSeconds=0.0745968
+# 00054_2024/06/19_11:48:20.089(+00.028)[3df4]    GPUImplHardware::timeBandwidthCL: totalSeconds=0.0249033
+# 00055_2024/06/19_11:48:20.089(+00.000)[3df4]    GPUImplHardware::checkBandwidthCL: seconds=0.0249033
+# 00056_2024/06/19_11:48:20.089(+00.000)[3df4]    GPUImplHardware::checkBandwidthCL: totalSeconds=0.0995001, BW=1.34739e+10, maxBW=1.41168e+10
+# 00057_2024/06/19_11:48:20.089(+00.000)[3df4]    GPUImplHardware::checkBandwidthCL: 40 of 100, totalSeconds=0.0995001
+# 00058_2024/06/19_11:48:20.114(+00.025)[3df4]    GPUImplHardware::timeBandwidthCL: totalSeconds=0.0239291
+# 00059_2024/06/19_11:48:20.114(+00.000)[3df4]    GPUImplHardware::checkBandwidthCL: seconds=0.0239291
+# 00060_2024/06/19_11:48:20.114(+00.000)[3df4]    GPUImplHardware::checkBandwidthCL: totalSeconds=0.123429, BW=1.40225e+10, maxBW=1.41168e+10
+# 00061_2024/06/19_11:48:20.114(+00.000)[3df4]    GPUImplHardware::checkBandwidthCL: 50 of 100, totalSeconds=0.123429
+# 00062_2024/06/19_11:48:20.138(+00.024)[3df4]    GPUImplHardware::timeBandwidthCL: totalSeconds=0.0229012
+# 00063_2024/06/19_11:48:20.138(+00.000)[3df4]    GPUImplHardware::checkBandwidthCL: seconds=0.0229012
+# 00064_2024/06/19_11:48:20.138(+00.000)[3df4]    GPUImplHardware::checkBandwidthCL: totalSeconds=0.14633, BW=1.46518e+10, maxBW=1.46518e+10
+# 00065_2024/06/19_11:48:20.138(+00.000)[3df4]    GPUImplHardware::checkBandwidthCL: 60 of 100, totalSeconds=0.14633
+# 00066_2024/06/19_11:48:20.162(+00.024)[3df4]    GPUImplHardware::timeBandwidthCL: totalSeconds=0.0232516
+# 00067_2024/06/19_11:48:20.162(+00.000)[3df4]    GPUImplHardware::checkBandwidthCL: seconds=0.0232516
+# 00068_2024/06/19_11:48:20.162(+00.000)[3df4]    GPUImplHardware::checkBandwidthCL: totalSeconds=0.169582, BW=1.4431e+10, maxBW=1.46518e+10
+# 00069_2024/06/19_11:48:20.163(+00.000)[3df4]    GPUImplHardware::checkBandwidthCL: 70 of 100, totalSeconds=0.169582
+# 00070_2024/06/19_11:48:20.186(+00.024)[3df4]    GPUImplHardware::timeBandwidthCL: totalSeconds=0.0226822
+# 00071_2024/06/19_11:48:20.186(+00.000)[3df4]    GPUImplHardware::checkBandwidthCL: seconds=0.0226822
+# 00072_2024/06/19_11:48:20.186(+00.000)[3df4]    GPUImplHardware::checkBandwidthCL: totalSeconds=0.192264, BW=1.47933e+10, maxBW=1.47933e+10
+# 00073_2024/06/19_11:48:20.186(+00.000)[3df4]    GPUImplHardware::checkBandwidthCL: 80 of 100, totalSeconds=0.192264
+# 00074_2024/06/19_11:48:20.211(+00.024)[3df4]    GPUImplHardware::timeBandwidthCL: totalSeconds=0.023202
+# 00075_2024/06/19_11:48:20.211(+00.000)[3df4]    GPUImplHardware::checkBandwidthCL: seconds=0.023202
+# 00076_2024/06/19_11:48:20.211(+00.000)[3df4]    GPUImplHardware::checkBandwidthCL: totalSeconds=0.215466, BW=1.44619e+10, maxBW=1.47933e+10
+# 00077_2024/06/19_11:48:20.211(+00.000)[3df4]    GPUImplHardware::checkBandwidthCL: 90 of 100, totalSeconds=0.215466
+# 00078_2024/06/19_11:48:20.234(+00.024)[3df4]    GPUImplHardware::timeBandwidthCL: totalSeconds=0.0227433
+# 00079_2024/06/19_11:48:20.235(+00.000)[3df4]    GPUImplHardware::checkBandwidthCL: seconds=0.0227433
+# 00080_2024/06/19_11:48:20.235(+00.000)[3df4]    GPUImplHardware::checkBandwidthCL: totalSeconds=0.238209, BW=1.47535e+10, maxBW=1.47933e+10
+# 00081_2024/06/19_11:48:20.235(+00.000)[3df4]    GPUImplHardware::checkBandwidthCL: clFinish
+# 00082_2024/06/19_11:48:20.235(+00.000)[3df4]    GPUImplHardware::checkBandwidthCL: releasing
+# 00083_2024/06/19_11:48:20.235(+00.000)[3df4]    GPUImplHardware::checkBandwidthCL: result=1.47933e+10
+# 00084_2024/06/19_11:48:20.235(+00.000)[3df4]   END GPUImplHardware::checkBandwidthCL, duration=0.261234
+# 00085_2024/06/19_11:48:20.235(+00.000)[3df4]   bytesPerSecond=1.47933e+10
+# 00086_2024/06/19_11:48:20.235(+00.000)[3df4]   GPUImplHardware::DoGetCLBandwidth: result=1.47933e+10
+# 00087_2024/06/19_11:48:20.235(+00.000)[3df4]  END GPUImplHardware::DoGetCLBandwidth, duration=0.261441
+clgpu[0].CLBandwidth=1.47933e+10
+# 00088_2024/06/19_11:48:20.235(+00.000)[3df4] END GPUSnifferTester::DoRunCLBandwidth, duration=0.261518
+# 00089_2024/06/19_11:48:20.235(+00.000)[3df4] BEGIN GPUImplHardware::DoGetCLCompute
+# 00090_2024/06/19_11:48:20.235(+00.000)[3df4]  GPUImplHardware::DoGetCLCompute: AIF::OCL::Context context(properties, *iDev);
+# 00091_2024/06/19_11:48:20.235(+00.000)[3df4]  GPUImplHardware::DoGetCLCompute: AIF::OCL::CommandQueue cq(context, *iDev, false, true);
+# 00092_2024/06/19_11:48:20.235(+00.000)[3df4]  BEGIN GPUImplHardware::MeasureCLCompute
+# 00093_2024/06/19_11:48:20.883(+00.648)[3df4]   GPUImplHardware::MeasureCLCompute: clFinish
+# 00094_2024/06/19_11:48:20.883(+00.000)[3df4]   GPUImplHardware::MeasureCLCompute: result=0.0477848
+# 00095_2024/06/19_11:48:20.884(+00.000)[3df4]  END GPUImplHardware::MeasureCLCompute, duration=0.648564
+# 00096_2024/06/19_11:48:20.884(+00.000)[3df4]  timeForKernelExecution=167.417
+# 00097_2024/06/19_11:48:20.884(+00.000)[3df4]  GPUImplHardware::DoGetCLCompute: result=167.417
+# 00098_2024/06/19_11:48:20.884(+00.000)[3df4] END GPUImplHardware::DoGetCLCompute, duration=0.648737
+clgpu[0].CLCompute=167.417
+NumNativeGPUs=0
+snifferEnd="2024-06-19_11:48:21"
+stderr:

@@ -1,0 +1,4 @@
+C:\Users\PC-03\Documents\herramientas de desarrollo de softwar diurno\mi primer proyecto\mi primer peoyeccto\mi primer peoyeccto\obj\Debug\net6.0\mi primer peoyeccto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-03\Documents\herramientas de desarrollo de softwar diurno\mi primer proyecto\mi primer peoyeccto\mi primer peoyeccto\obj\Debug\net6.0\mi primer peoyeccto.AssemblyInfoInputs.cache
+C:\Users\PC-03\Documents\herramientas de desarrollo de softwar diurno\mi primer proyecto\mi primer peoyeccto\mi primer peoyeccto\obj\Debug\net6.0\mi primer peoyeccto.AssemblyInfo.cs
+C:\Users\PC-03\Documents\herramientas de desarrollo de softwar diurno\mi primer proyecto\mi primer peoyeccto\mi primer peoyeccto\obj\Debug\net6.0\mi primer peoyeccto.csproj.CoreCompileInputs.cache
